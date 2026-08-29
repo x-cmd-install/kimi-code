@@ -1,0 +1,64 @@
+about:
+  description: Kimi Code CLI  —  The Starting Point for Next-Gen Agents
+  license: MIT
+  homepage: https://www.kimi.com/code/docs/
+  head: 9d2304c
+  archived: false
+  latestVersion: @moonshot-ai/kimi-code@0.39.1
+  collectedAt: 2026-08-29T07:01:08Z
+timeline:
+  created: 2026-05-22
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-28
+popularity:
+  star: 7135
+  watcher: 30
+  fork: 1135
+  release: 70
+  contributor: 56
+  pullRequest: 872
+  issue: 1133
+language:
+  TypeScript: 33638694
+  JavaScript: 664764
+  CSS: 12113
+  Nix: 8763
+  Shell: 8689
+  C: 8377
+  HTML: 3227
+  Dockerfile: 992
+  Makefile: 693
+totalLine: 34346312
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 14
+    mergedPR: 305
+    openPR: 160
+    closedIssue: 60
+    openIssue: 315
+    commit: 316
+  last90d:
+    since: 2026-05-31
+    release: 65
+    mergedPR: 1210
+    openPR: 424
+    closedIssue: 271
+    openIssue: 777
+    commit: 1215
+  last180d:
+    since: 2026-03-02
+    release: 70
+    mergedPR: 1342
+    openPR: 430
+    closedIssue: 331
+    openIssue: 802
+    commit: 1336
+  last360d:
+    since: 2025-09-03
+    release: 70
+    mergedPR: 1342
+    openPR: 430
+    closedIssue: 331
+    openIssue: 802
+    commit: 1336
