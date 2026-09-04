@@ -1,25 +1,27 @@
 about:
-  description: Kimi Code CLI  —  The Starting Point for Next-Gen Agents
+  description:
+  |
+    Kimi Code CLI  —  The Starting Point for Next-Gen Agents
   license: MIT
   homepage: https://www.kimi.com/code/docs/
-  head: b184b31
+  head: f9ca333
   archived: false
-  latestVersion: @moonshot-ai/kimi-code@0.40.1
-  collectedAt: 2026-09-04T04:26:46Z
+  latestVersion: @moonshot-ai/kimi-code@0.41.0
+  collectedAt: 2026-09-04T19:32:55Z
 timeline:
   created: 2026-05-22
   lastCommit: 2026-09-04
-  lastRelease: 2026-09-02
+  lastRelease: 2026-09-04
 popularity:
-  star: 7243
+  star: 7249
   watcher: 32
-  fork: 1163
-  release: 72
+  fork: 1165
+  release: 73
   contributor: 56
-  pullRequest: 902
-  issue: 1197
+  pullRequest: 2333
+  issue: 1203
 language:
-  TypeScript: 33723874
+  TypeScript: 33954999
   JavaScript: 670443
   CSS: 12113
   Nix: 8697
@@ -28,37 +30,63 @@ language:
   HTML: 3227
   Dockerfile: 992
   Makefile: 693
-totalLine: 34437030
+totalBytes: 34668155
 recent:
   last30d:
     since: 2026-08-05
-    release: 13
-    mergedPR: 313
-    openPR: 137
+    release: 14
+    mergedPR: 321
+    openPR: 141
     closedIssue: 41
-    openIssue: 306
-    commit: 304
+    openIssue: 312
+    commit: 312
+  last60d:
+    since: 2026-07-06
+    release: 36
+    mergedPR: 754
+    openPR: 341
+    closedIssue: 140
+    openIssue: 637
+    commit: 726
   last90d:
     since: 2026-06-06
-    release: 61
-    mergedPR: 1182
-    openPR: 426
+    release: 62
+    mergedPR: 1190
+    openPR: 430
     closedIssue: 233
-    openIssue: 793
-    commit: 1183
+    openIssue: 799
+    commit: 1191
   last180d:
     since: 2026-03-08
-    release: 72
-    mergedPR: 1418
-    openPR: 444
+    release: 73
+    mergedPR: 1426
+    openPR: 448
     closedIssue: 342
-    openIssue: 855
-    commit: 1412
+    openIssue: 861
+    commit: 1420
   last360d:
     since: 2025-09-09
-    release: 72
-    mergedPR: 1418
-    openPR: 444
+    release: 73
+    mergedPR: 1426
+    openPR: 448
     closedIssue: 342
-    openIssue: 855
-    commit: 1412
+    openIssue: 861
+    commit: 1420
+  last720d:
+    since: 2024-09-14
+    release: 73
+    mergedPR: 1426
+    openPR: 448
+    closedIssue: 342
+    openIssue: 861
+    commit: 1420
+total:
+  release: 73
+  mergedPR: 1426
+  openPR: 448
+  closedIssue: 342
+  openIssue: 861
+  commit: 1420
+---
+---
+
