@@ -2,24 +2,24 @@ about:
   description: "Kimi Code CLI  —  The Starting Point for Next-Gen Agents"
   license: MIT
   homepage: https://www.kimi.com/code/docs/
-  head: 48f5dc9
+  head: f12d59e
   archived: false
   latestVersion: "@moonshot-ai/kimi-code@0.41.0"
-  collectedAt: 2026-09-07T06:08:15Z
+  collectedAt: 2026-09-07T18:27:17Z
 timeline:
   created: 2026-05-22
   lastCommit: 2026-09-07
   lastRelease: 2026-09-04
 popularity:
-  star: 7278
+  star: 7291
   watcher: 34
-  fork: 1168
+  fork: 1172
   release: 73
-  contributor: 56
-  pullRequest: 2351
-  issue: 1234
+  contributor: 57
+  pullRequest: 2369
+  issue: 1247
 language:
-  TypeScript: 27421877
+  TypeScript: 27605377
   JavaScript: 657640
   CSS: 12113
   Nix: 8705
@@ -28,74 +28,74 @@ language:
   HTML: 3227
   Dockerfile: 992
   Makefile: 693
-totalBytes: 28122165
+totalBytes: 28305665
 recent:
   last30d:
     since: 2026-08-08
     release: 12
-    mergedPR: 306
-    openPR: 130
-    closedIssue: 39
-    openIssue: 311
-    commit: 268
+    mergedPR: 323
+    openPR: 124
+    closedIssue: 41
+    openIssue: 322
+    commit: 285
   last60d:
     since: 2026-07-09
     release: 32
-    mergedPR: 707
-    openPR: 338
-    closedIssue: 139
-    openIssue: 655
-    commit: 599
+    mergedPR: 724
+    openPR: 332
+    closedIssue: 142
+    openIssue: 665
+    commit: 616
   last90d:
     since: 2026-06-09
     release: 62
-    mergedPR: 1170
-    openPR: 425
-    closedIssue: 216
-    openIssue: 811
-    commit: 1112
+    mergedPR: 1187
+    openPR: 419
+    closedIssue: 219
+    openIssue: 821
+    commit: 1129
   last180d:
     since: 2026-03-11
     release: 73
-    mergedPR: 1436
-    openPR: 450
-    closedIssue: 343
-    openIssue: 891
-    commit: 1430
+    mergedPR: 1453
+    openPR: 444
+    closedIssue: 346
+    openIssue: 901
+    commit: 1447
   last360d:
     since: 2025-09-12
     release: 73
-    mergedPR: 1436
-    openPR: 450
-    closedIssue: 343
-    openIssue: 891
-    commit: 1430
+    mergedPR: 1453
+    openPR: 444
+    closedIssue: 346
+    openIssue: 901
+    commit: 1447
   last720d:
     since: 2024-09-17
     release: 73
-    mergedPR: 1436
-    openPR: 450
-    closedIssue: 343
-    openIssue: 891
-    commit: 1430
+    mergedPR: 1453
+    openPR: 444
+    closedIssue: 346
+    openIssue: 901
+    commit: 1447
 total:
   release: 73
-  mergedPR: 1436
-  openPR: 450
-  closedIssue: 343
-  openIssue: 891
-  commit: 1430
+  mergedPR: 1453
+  openPR: 444
+  closedIssue: 346
+  openIssue: 901
+  commit: 1447
 ---
 path: /home/runner/.x-repo/github.com/MoonshotAI/kimi-code
-collectedAt: 2026-09-07T06:08:55Z
+collectedAt: 2026-09-07T18:27:35Z
 loc:
   TypeScript:
-    code: 633682
-    comments: 33416
-    blanks: 76032
-    files: 3198
+    code: 637435
+    comments: 33806
+    blanks: 76459
+    files: 3206
   Tsx:
-    code: 19601
+    code: 19607
     comments: 1011
     blanks: 1532
     files: 129
@@ -156,29 +156,29 @@ loc:
     files: 1
   Toml:
     code: 33
-    comments: 378
+    comments: 386
     blanks: 59
     files: 1
   Markdown:
     code: 0
-    comments: 17458
-    blanks: 8489
-    files: 190
+    comments: 17564
+    blanks: 8506
+    files: 191
   Text:
     code: 0
     comments: 8510
     blanks: 524
     files: 14
 total:
-  code: 692029
-  comments: 61942
-  blanks: 89405
-  files: 4159
+  code: 695788
+  comments: 62446
+  blanks: 89849
+  files: 4168
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:09:08+00:00
+  collectedAt: 2026-09-07T18:27:39+00:00
   platform:
     darwin/arm64:
       name:  kimi-code-darwin-arm64.zip
