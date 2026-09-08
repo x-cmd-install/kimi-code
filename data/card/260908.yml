@@ -2,10 +2,10 @@ about:
   description: "Kimi Code CLI  —  The Starting Point for Next-Gen Agents"
   license: MIT
   homepage: https://www.kimi.com/code/docs/
-  head: 6e51631
+  head: f6a9c39
   archived: false
   latestVersion: "@moonshot-ai/kimi-code@0.41.0"
-  collectedAt: 2026-09-08T03:11:39Z
+  collectedAt: 2026-09-08T06:10:26Z
 timeline:
   created: 2026-05-22
   lastCommit: 2026-09-08
@@ -13,14 +13,14 @@ timeline:
 popularity:
   star: 7295
   watcher: 34
-  fork: 1173
+  fork: 1174
   release: 73
   contributor: 57
-  pullRequest: 2370
+  pullRequest: 2373
   issue: 1248
 language:
-  TypeScript: 27623905
-  JavaScript: 657640
+  TypeScript: 27721077
+  JavaScript: 658048
   CSS: 12113
   Nix: 8705
   Shell: 8541
@@ -28,72 +28,72 @@ language:
   HTML: 3227
   Dockerfile: 992
   Makefile: 693
-totalBytes: 28324193
+totalBytes: 28421773
 recent:
   last30d:
     since: 2026-08-09
     release: 12
-    mergedPR: 325
-    openPR: 116
+    mergedPR: 331
+    openPR: 109
     closedIssue: 42
     openIssue: 311
-    commit: 287
+    commit: 293
   last60d:
     since: 2026-07-10
     release: 31
-    mergedPR: 717
-    openPR: 330
+    mergedPR: 723
+    openPR: 323
     closedIssue: 142
     openIssue: 660
-    commit: 618
+    commit: 624
   last90d:
     since: 2026-06-10
     release: 60
-    mergedPR: 1166
-    openPR: 416
+    mergedPR: 1172
+    openPR: 409
     closedIssue: 217
     openIssue: 818
-    commit: 1131
+    commit: 1137
   last180d:
     since: 2026-03-12
     release: 73
-    mergedPR: 1455
-    openPR: 443
+    mergedPR: 1461
+    openPR: 436
     closedIssue: 347
     openIssue: 901
-    commit: 1449
+    commit: 1455
   last360d:
     since: 2025-09-13
     release: 73
-    mergedPR: 1455
-    openPR: 443
+    mergedPR: 1461
+    openPR: 436
     closedIssue: 347
     openIssue: 901
-    commit: 1449
+    commit: 1455
   last720d:
     since: 2024-09-18
     release: 73
-    mergedPR: 1455
-    openPR: 443
+    mergedPR: 1461
+    openPR: 436
     closedIssue: 347
     openIssue: 901
-    commit: 1449
+    commit: 1455
 total:
   release: 73
-  mergedPR: 1455
-  openPR: 443
+  mergedPR: 1461
+  openPR: 436
   closedIssue: 347
   openIssue: 901
-  commit: 1449
+  commit: 1455
 ---
 path: /home/runner/.x-repo/github.com/MoonshotAI/kimi-code
-collectedAt: 2026-09-08T03:11:52Z
+collectedAt: 2026-09-08T06:10:46Z
 loc:
   TypeScript:
-    code: 637879
-    comments: 33809
-    blanks: 76490
-    files: 3207
+    code: 640094
+    comments: 33838
+    blanks: 76632
+    files: 3220
   Tsx:
     code: 19607
     comments: 1011
@@ -102,15 +102,15 @@ loc:
   Yaml:
     code: 17167
     comments: 0
-    blanks: 1437
+    blanks: 1438
     files: 2
   JavaScript:
-    code: 16537
+    code: 16548
     comments: 896
-    blanks: 975
+    blanks: 968
     files: 531
   Json:
-    code: 2369
+    code: 2367
     comments: 0
     blanks: 3
     files: 76
@@ -161,19 +161,19 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 17564
-    blanks: 8506
-    files: 191
+    comments: 17632
+    blanks: 8540
+    files: 194
   Text:
     code: 0
     comments: 8510
     blanks: 524
     files: 14
 total:
-  code: 696232
-  comments: 62449
-  blanks: 89880
-  files: 4169
+  code: 698456
+  comments: 62546
+  blanks: 90050
+  files: 4185
 ---
 
 ---
