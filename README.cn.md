@@ -1,52 +1,52 @@
 # kimi-code
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 Kimi Code CLI  —  The Starting Point for Next-Gen Agents
 
-![kimi-code](https://repo.x-cmd.io/kimi-code.svg)
+![kimi-code](https://repo.x-cmd.io/kimi-code.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install kimi-code
 ```
 
-## Code insight
+## 代码规模
 
-Total: **708,126** lines of code across **3977** files in the top 5 languages.
+合计: **708,126** 行代码（覆盖前 5 种语言、共 **3977** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | TypeScript | 651,310 | 33,216 | 77,039 | 3241 |
 | Tsx | 19,251 | 970 | 1,525 | 129 |
 | Yaml | 17,150 | 0 | 1,437 | 2 |
 | JavaScript | 16,587 | 896 | 970 | 531 |
 | Json | 2,329 | 0 | 3 | 74 |
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/MoonshotAI/kimi-code>
-- **Homepage**: <https://www.kimi.com/code/docs/>
-- **License**: MIT
+- **上游仓库**: <https://github.com/MoonshotAI/kimi-code>
+- **官网**: <https://www.kimi.com/code/docs/>
+- **许可证**: MIT
 
-## Release
+## 发布
 
-- **Latest**: `@moonshot-ai/kimi-code@0.42.0` (2026-09-09)
-- **Last commit**: 2026-09-10
-- **Assets in release**: 37
+- **最新版本**: `@moonshot-ai/kimi-code@0.42.0` (2026-09-09)
+- **最近提交**: 2026-09-10
+- **Release 含资产**: 37 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 7,326 · **Forks**: 1,181 · **Open issues**: 1,267 · **Contributors**: 58
+- **Star**: 7,326 · **Fork**: 1,181 · **开放 issue**: 1,267 · **贡献者**: 58
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 74 · **Merged PRs**: 1510 · **Open PRs**: 427 · **Closed issues**: 352 · **Open issues**: 915 · **Commits**: 1497
+- **发布数**: 74 · **已合并 PR**: 1510 · **开放 PR**: 427 · **已关闭 issue**: 352 · **开放 issue**: 915 · **提交数**: 1497
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 13 | 366 | 87 | 46 | 304 | 335 |
 | last60d | 2026-07-12 | 31 | 753 | 312 | 144 | 670 | 666 |
@@ -55,10 +55,10 @@ Total: **708,126** lines of code across **3977** files in the top 5 languages.
 | 360d | 2025-09-15 | 74 | 1510 | 427 | 352 | 915 | 1497 |
 | last720d | 2024-09-20 | 74 | 1510 | 427 | 352 | 915 | 1497 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [kimi-code-darwin-arm64.tar.gz](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@0.42.0/kimi-code-darwin-arm64.tar.gz) | 57.1 MiB | `native/darwin/arm64` |
 | [kimi-code-darwin-arm64.tar.gz.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@0.42.0/kimi-code-darwin-arm64.tar.gz.sha256) | 96 B | `native/darwin/arm64` |
 | [kimi-code-darwin-arm64.zip](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@0.42.0/kimi-code-darwin-arm64.zip) | 58.2 MiB | `native/darwin/arm64` |
@@ -97,22 +97,22 @@ Total: **708,126** lines of code across **3977** files in the top 5 languages.
 | [kimi-code-win32-x64.zst.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@0.42.0/kimi-code-win32-x64.zst.sha256) | 90 B | `native/win/x64` |
 | [manifest.json](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@0.42.0/manifest.json) | 2.0 KiB | `other` |
 
-## Distribution status
+## 发行版状态
 
-Reported by **8** distros on [repology.org](https://repology.org/project/kimi-code). **2** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+在 [repology.org](https://repology.org/project/kimi-code) 上共有 **8** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
 
-| Distro | Version | Status |
-|--------|---------|--------|
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
 | Homebrew | `0.41.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.36.1` | ⚠️ outdated |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for kimi-code lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kimi-code` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+kimi-code 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `kimi-code` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/kimi-code.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/kimi-code.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:05:04Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:05:04Z._
