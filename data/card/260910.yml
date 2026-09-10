@@ -7,7 +7,7 @@ about:
   latestVersion: "@moonshot-ai/kimi-code@0.42.0"
   latestRelease: "@moonshot-ai/kimi-code@0.42.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:04:34Z
+  collectedAt: 2026-09-10T22:40:59Z
 timeline:
   created: 2026-05-22
   lastCommit: 2026-09-10
@@ -91,7 +91,7 @@ total:
   commit: 1497
 ---
 path: /home/runner/.x-repo/github.com/MoonshotAI/kimi-code
-collectedAt: 2026-09-10T21:04:49Z
+collectedAt: 2026-09-10T22:41:19Z
 loc:
   TypeScript:
     code: 651310
