@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 58648856,
       "digest": "sha256:adaa655c4cc07533b728d729fb28762563060edcd726a169f2b5b846e42f18b2",
-      "download_count": 25,
+      "download_count": 35,
       "created_at": "2026-09-19T12:32:32Z",
       "updated_at": "2026-09-19T12:32:37Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/%40moonshot-ai/kimi-code%402.0.2/kimi-code-darwin-arm64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:24c4d0ab4bd5ffdd73e864c2f4f2197e561006dc61786ef34d3c4973eea31342",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-19T12:32:32Z",
       "updated_at": "2026-09-19T12:32:32Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/%40moonshot-ai/kimi-code%402.0.2/kimi-code-darwin-arm64.tar.gz.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 59759725,
       "digest": "sha256:339bcb40b36bccbd49f8c0ca0e974302fbfdce510cccb8027d90bc004ea98b14",
-      "download_count": 17,
+      "download_count": 28,
       "created_at": "2026-09-19T12:32:32Z",
       "updated_at": "2026-09-19T12:32:37Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/%40moonshot-ai/kimi-code%402.0.2/kimi-code-darwin-arm64.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 93,
       "digest": "sha256:5c205da085344fe8cc1eb5bd043a2fa6b2337e659e2437c2f295baa76d30d10b",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-19T12:32:32Z",
       "updated_at": "2026-09-19T12:32:32Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/%40moonshot-ai/kimi-code%402.0.2/kimi-code-darwin-arm64.zip.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 59892740,
       "digest": "sha256:40516da0f32777397969c4521cbb186e8fcc629ca52f152910fdeb511be99732",
-      "download_count": 10,
+      "download_count": 16,
       "created_at": "2026-09-19T12:32:32Z",
       "updated_at": "2026-09-19T12:32:35Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/%40moonshot-ai/kimi-code%402.0.2/kimi-code-darwin-x64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 60757498,
       "digest": "sha256:1b01806b1bb40c5ac4a9901c85eb1e49d1710e872fec9044649626737e99209f",
-      "download_count": 10,
+      "download_count": 16,
       "created_at": "2026-09-19T12:32:34Z",
       "updated_at": "2026-09-19T12:32:37Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/%40moonshot-ai/kimi-code%402.0.2/kimi-code-darwin-x64.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 61761849,
       "digest": "sha256:2965c558fc2bfb7870033712768870e628de1fcdbefc7b8cddd92e9394067877",
-      "download_count": 10,
+      "download_count": 17,
       "created_at": "2026-09-19T12:32:37Z",
       "updated_at": "2026-09-19T12:32:40Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/%40moonshot-ai/kimi-code%402.0.2/kimi-code-linux-arm64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 63136093,
       "digest": "sha256:d80774e490f3d916fe69a7084d962bd89fa4eae387fd13eb28e860f25f46518d",
-      "download_count": 9,
+      "download_count": 17,
       "created_at": "2026-09-19T12:32:37Z",
       "updated_at": "2026-09-19T12:32:43Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/%40moonshot-ai/kimi-code%402.0.2/kimi-code-linux-arm64.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 92,
       "digest": "sha256:3896dccb9eb8a77d832c38bab2e13f31312f0558521f20049e5f1b58f5976604",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-09-19T12:32:38Z",
       "updated_at": "2026-09-19T12:32:38Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/%40moonshot-ai/kimi-code%402.0.2/kimi-code-linux-arm64.zip.sha256"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 62072627,
       "digest": "sha256:3c65aa6f983f157212401d0425a1b15f01c9704bc36f6e4a83bb8e91c4c04da9",
-      "download_count": 33,
+      "download_count": 48,
       "created_at": "2026-09-19T12:32:39Z",
       "updated_at": "2026-09-19T12:32:42Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/%40moonshot-ai/kimi-code%402.0.2/kimi-code-linux-x64.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 93,
       "digest": "sha256:3a2db684e2a2068dbbdbaf4648ddb9e8fccbd3b443f0022b9441d1912ece653f",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-19T12:32:39Z",
       "updated_at": "2026-09-19T12:32:40Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/%40moonshot-ai/kimi-code%402.0.2/kimi-code-linux-x64.tar.gz.sha256"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 63188176,
       "digest": "sha256:8bbafd1c5b993d290b9bf6dc8b10adfefe2ab1dd762eb82b0e53e250d396fef4",
-      "download_count": 33,
+      "download_count": 53,
       "created_at": "2026-09-19T12:32:40Z",
       "updated_at": "2026-09-19T12:32:43Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/%40moonshot-ai/kimi-code%402.0.2/kimi-code-linux-x64.zip"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 90,
       "digest": "sha256:5cf4cefe645cf6e96718c7802756c6c51a3ac2e9e9020b1422958060e79df840",
-      "download_count": 6,
+      "download_count": 11,
       "created_at": "2026-09-19T12:32:41Z",
       "updated_at": "2026-09-19T12:32:41Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/%40moonshot-ai/kimi-code%402.0.2/kimi-code-linux-x64.zip.sha256"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 50774448,
       "digest": "sha256:cc602ad42a4fdabd770a7958c8ac46fa6ee00599529d0bdbb9b47a4c1f46aada",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-09-19T12:32:43Z",
       "updated_at": "2026-09-19T12:32:46Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/%40moonshot-ai/kimi-code%402.0.2/kimi-code-win32-arm64.zip"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 92,
       "digest": "sha256:b1492a7a5e72ff6fe1ccc7efffdf58a12527bb1faa9e153a0b6139d8d8ee61b7",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-19T12:32:43Z",
       "updated_at": "2026-09-19T12:32:44Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/%40moonshot-ai/kimi-code%402.0.2/kimi-code-win32-arm64.zip.sha256"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 53650495,
       "digest": "sha256:2015724251857c1b48f456203b5bb1c3cff23babb01829bdc7402753f9d177dd",
-      "download_count": 4,
+      "download_count": 8,
       "created_at": "2026-09-19T12:32:44Z",
       "updated_at": "2026-09-19T12:32:47Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/%40moonshot-ai/kimi-code%402.0.2/kimi-code-win32-x64.tar.gz"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 93,
       "digest": "sha256:e005ce50eed737f05a16db58f93b619c39c326f21ebdaa76d0b6d0f5d74d9bf9",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-19T12:32:45Z",
       "updated_at": "2026-09-19T12:32:45Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/%40moonshot-ai/kimi-code%402.0.2/kimi-code-win32-x64.tar.gz.sha256"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 54616616,
       "digest": "sha256:87233e189cbeb265285f2b94ec5bc22a42d505f38c09c2917cb4eb512d6f9462",
-      "download_count": 42,
+      "download_count": 67,
       "created_at": "2026-09-19T12:32:45Z",
       "updated_at": "2026-09-19T12:32:48Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/%40moonshot-ai/kimi-code%402.0.2/kimi-code-win32-x64.zip"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 90,
       "digest": "sha256:90254cd2689ec43690810801bd07d573d47c8ff8d73f545b2146e4e6082ecab2",
-      "download_count": 12,
+      "download_count": 17,
       "created_at": "2026-09-19T12:32:46Z",
       "updated_at": "2026-09-19T12:32:46Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/%40moonshot-ai/kimi-code%402.0.2/kimi-code-win32-x64.zip.sha256"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 2021,
       "digest": "sha256:bebd64633a5095946f07da648d36581119c159dc857c8144bca8660007180e8b",
-      "download_count": 18,
+      "download_count": 28,
       "created_at": "2026-09-19T12:32:47Z",
       "updated_at": "2026-09-19T12:32:47Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/%40moonshot-ai/kimi-code%402.0.2/manifest.json"
@@ -1374,8 +1374,8 @@
   "body": "### Patch Changes\n\n- [#3922](https://github.com/MoonshotAI/kimi-code/pull/3922) [`9df7a9c`](https://github.com/MoonshotAI/kimi-code/commit/9df7a9ccfb0d7d0713b51ae1ac165d0634fc40d2) Thanks [@sailist](https://github.com/sailist)! - Fix new messages occasionally landing at an old position in the conversation after resuming a session.\n\n- [#3911](https://github.com/MoonshotAI/kimi-code/pull/3911) [`88a7d93`](https://github.com/MoonshotAI/kimi-code/commit/88a7d932f1cda95c78bf5488d34ff974a160fb08) Thanks [@Grapedge](https://github.com/Grapedge)! - Fix compaction failing after switching to a model with a smaller context window.\n\n- [#3929](https://github.com/MoonshotAI/kimi-code/pull/3929) [`6ffdf0d`](https://github.com/MoonshotAI/kimi-code/commit/6ffdf0d579fa1a9f30c2d00c437c6c8de0c03997) Thanks [@7Hanrui](https://github.com/7Hanrui)! - The agent no longer assumes the current working directory is the project root.\n\n- [#3933](https://github.com/MoonshotAI/kimi-code/pull/3933) [`9721259`](https://github.com/MoonshotAI/kimi-code/commit/97212596f7d694b9683046ec7aad4d1247d29468) Thanks [@liruifengv](https://github.com/liruifengv)! - Fix a message sent while the agent was running sometimes appearing twice in the chat.\n\n- [#3934](https://github.com/MoonshotAI/kimi-code/pull/3934) [`2e605b1`](https://github.com/MoonshotAI/kimi-code/commit/2e605b10be906fb627c1f3aeaaa066b14ddbdbba) Thanks [@liruifengv](https://github.com/liruifengv)! - web: Improved interactions and fixed known bugs.",
   "reactions": {
     "url": "https://api.github.com/repos/MoonshotAI/kimi-code/releases/392058954/reactions",
-    "total_count": 2,
-    "+1": 2,
+    "total_count": 3,
+    "+1": 3,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
