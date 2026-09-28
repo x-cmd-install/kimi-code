@@ -14,11 +14,11 @@ x install kimi-code
 
 ## Code insight
 
-Total: **727,104** lines of code across **3966** files in the top 5 languages.
+Total: **728,268** lines of code across **3966** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 668,768 | 33,567 | 79,004 | 3231 |
+| TypeScript | 669,932 | 33,567 | 79,128 | 3231 |
 | Tsx | 19,297 | 996 | 1,515 | 129 |
 | Yaml | 17,161 | 0 | 1,438 | 2 |
 | JavaScript | 17,082 | 900 | 985 | 530 |
@@ -33,27 +33,27 @@ Total: **727,104** lines of code across **3966** files in the top 5 languages.
 ## Release
 
 - **Latest**: `@moonshot-ai/kimi-code@2.1.1` (2026-09-24)
-- **Last commit**: 2026-09-24
+- **Last commit**: 2026-09-28
 - **Assets in release**: 37
 
 ## Popularity
 
-- **Stars**: 7,685 · **Forks**: 1,260 · **Open issues**: 1,401 · **Contributors**: 59
+- **Stars**: 7,706 · **Forks**: 1,263 · **Open issues**: 1,403 · **Contributors**: 59
 
 ## Totals (cumulative)
 
-- **Releases**: 81 · **Merged PRs**: 1650 · **Open PRs**: 451 · **Closed issues**: 370 · **Open issues**: 1031 · **Commits**: 1616
+- **Releases**: 81 · **Merged PRs**: 1653 · **Open PRs**: 456 · **Closed issues**: 370 · **Open issues**: 1033 · **Commits**: 1619
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 12 | 302 | 65 | 32 | 245 | 293 |
-| last60d | 2026-07-29 | 26 | 626 | 197 | 96 | 567 | 618 |
-| 90d | 2026-06-29 | 52 | 1117 | 362 | 185 | 844 | 1104 |
-| last180d | 2026-03-31 | 81 | 1650 | 451 | 370 | 1031 | 1616 |
-| 360d | 2025-10-02 | 81 | 1650 | 451 | 370 | 1031 | 1616 |
-| last720d | 2024-10-07 | 81 | 1650 | 451 | 370 | 1031 | 1616 |
+| 30d | 2026-08-29 | 11 | 304 | 68 | 29 | 236 | 208 |
+| last60d | 2026-07-30 | 25 | 616 | 200 | 94 | 551 | 550 |
+| 90d | 2026-06-30 | 51 | 1099 | 367 | 184 | 837 | 988 |
+| last180d | 2026-04-01 | 81 | 1653 | 456 | 370 | 1033 | 1619 |
+| 360d | 2025-10-03 | 81 | 1653 | 456 | 370 | 1033 | 1619 |
+| last720d | 2024-10-08 | 81 | 1653 | 456 | 370 | 1033 | 1619 |
 
 ## Release assets
 
@@ -106,4 +106,4 @@ Install metadata for kimi-code lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:39:39Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:45:45Z._
