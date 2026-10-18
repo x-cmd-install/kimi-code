@@ -33,27 +33,27 @@ Total: **746,204** lines of code across **3965** files in the top 5 languages.
 ## Release
 
 - **Latest**: `@moonshot-ai/kimi-code@2.2.0` (2026-10-14)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-17
 - **Assets in release**: 37
 
 ## Popularity
 
-- **Stars**: 7,905 · **Forks**: 1,297 · **Open issues**: 1,510 · **Contributors**: 60
+- **Stars**: 7,921 · **Forks**: 1,298 · **Open issues**: 1,514 · **Contributors**: 60
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 1708 · **Open PRs**: 466 · **Closed issues**: 391 · **Open issues**: 1119 · **Commits**: 1670
+- **Releases**: 82 · **Merged PRs**: 1709 · **Open PRs**: 466 · **Closed issues**: 391 · **Open issues**: 1123 · **Commits**: 1671
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 6 | 107 | 52 | 15 | 177 | 110 |
-| last60d | 2026-08-18 | 18 | 468 | 108 | 63 | 456 | 456 |
-| 90d | 2026-07-19 | 32 | 780 | 314 | 161 | 807 | 754 |
-| last180d | 2026-04-20 | 82 | 1708 | 466 | 391 | 1119 | 1670 |
-| 360d | 2025-10-22 | 82 | 1708 | 466 | 391 | 1119 | 1670 |
-| last720d | 2024-10-27 | 82 | 1708 | 466 | 391 | 1119 | 1670 |
+| 30d | 2026-09-18 | 5 | 91 | 50 | 13 | 171 | 110 |
+| last60d | 2026-08-19 | 15 | 450 | 103 | 60 | 450 | 456 |
+| 90d | 2026-07-20 | 32 | 768 | 308 | 154 | 785 | 754 |
+| last180d | 2026-04-21 | 82 | 1709 | 466 | 391 | 1123 | 1670 |
+| 360d | 2025-10-23 | 82 | 1709 | 466 | 391 | 1123 | 1670 |
+| last720d | 2024-10-28 | 82 | 1709 | 466 | 391 | 1123 | 1671 |
 
 ## Release assets
 
@@ -106,4 +106,4 @@ Install metadata for kimi-code lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T05:36:09Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T05:45:35Z._
