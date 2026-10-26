@@ -4,7 +4,7 @@
   visiblename: kimi-code
   version: 2.3.1
   origversion: 2.3.1-1
-  status: newest
+  status: outdated
   summary: The Starting Point for Next-Gen Agents
   maintainers:
     - alissonlauffer@aur
@@ -14,8 +14,8 @@
   srcname: kimi-code-bin
   binname: kimi-code-bin
   visiblename: kimi-code-bin
-  version: 2.3.1
-  origversion: 2.3.1-1
+  version: 2.3.2
+  origversion: 2.3.2-1
   status: newest
   summary: Kimi Code CLI - the starting point for next-gen agents (prebuilt binary)
   maintainers:
@@ -25,9 +25,9 @@
 - repo: chocolatey
   binname: kimi-code
   visiblename: Kimi Code
-  version: 2.2.0
+  version: 2.3.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Kimi's terminal coding agent from Moonshot AI
 - repo: gentoo_ovl_guru
   srcname: dev-util/kimi-code-bin
@@ -60,7 +60,7 @@
   visiblename: kimi-code
   version: 2.3.1
   origversion: null
-  status: newest
+  status: outdated
   summary: AI coding agent for your terminal
 - repo: liguros_develop
   srcname: dev-util/kimi-code-bin
@@ -92,8 +92,8 @@
   srcname: mingw-w64-kimi-code
   binname: mingw-w64-clang-x86_64-kimi-code
   visiblename: mingw-w64-clang-x86_64-kimi-code
-  version: 2.3.0
-  origversion: 2.3.0-1
+  version: 2.3.1
+  origversion: 2.3.1-1
   status: outdated
   summary: An open-source AI coding agent developed by Moonshot AI and highly optimized for Kimi models (mingw-w64)
   licenses:
@@ -102,8 +102,8 @@
   srcname: mingw-w64-kimi-code
   binname: mingw-w64-clang-aarch64-kimi-code
   visiblename: mingw-w64-clang-aarch64-kimi-code
-  version: 2.3.0
-  origversion: 2.3.0-1
+  version: 2.3.1
+  origversion: 2.3.1-1
   status: outdated
   summary: An open-source AI coding agent developed by Moonshot AI and highly optimized for Kimi models (mingw-w64)
   licenses:
@@ -112,8 +112,8 @@
   srcname: mingw-w64-kimi-code
   binname: mingw-w64-ucrt-x86_64-kimi-code
   visiblename: mingw-w64-ucrt-x86_64-kimi-code
-  version: 2.3.0
-  origversion: 2.3.0-1
+  version: 2.3.1
+  origversion: 2.3.1-1
   status: outdated
   summary: An open-source AI coding agent developed by Moonshot AI and highly optimized for Kimi models (mingw-w64)
   licenses:
@@ -138,7 +138,7 @@
   subrepo: main
   binname: kimi-code
   visiblename: kimi-code
-  version: 2.3.1
+  version: 2.3.2
   origversion: null
   status: newest
   licenses:
