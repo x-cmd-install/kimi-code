@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: kimi-code
+  visiblename: kimi-code
+  version: 2.3.2
+  origversion: null
+  status: outdated
+  summary: AI coding agent for your terminal
 - repo: aur
   srcname: kimi-code
   binname: kimi-code
@@ -14,8 +21,8 @@
   srcname: kimi-code-bin
   binname: kimi-code-bin
   visiblename: kimi-code-bin
-  version: 2.3.2
-  origversion: 2.3.2-1
+  version: 2.3.3
+  origversion: 2.3.3-1
   status: newest
   summary: Kimi Code CLI - the starting point for next-gen agents (prebuilt binary)
   maintainers:
@@ -27,7 +34,7 @@
   visiblename: Kimi Code
   version: 2.3.2
   origversion: null
-  status: newest
+  status: outdated
   summary: Kimi's terminal coding agent from Moonshot AI
 - repo: gentoo_ovl_guru
   srcname: dev-util/kimi-code-bin
@@ -55,13 +62,6 @@
     - MIT
   categories:
     - dev-util
-- repo: homebrew
-  srcname: kimi-code
-  visiblename: kimi-code
-  version: 2.3.1
-  origversion: null
-  status: outdated
-  summary: AI coding agent for your terminal
 - repo: liguros_develop
   srcname: dev-util/kimi-code-bin
   visiblename: dev-util/kimi-code-bin
@@ -126,8 +126,8 @@
     - kimi-code-debuginfo
     - kimi-code-debugsource
   visiblename: kimi-code
-  version: 2.2.0
-  origversion: 2.2.0-1.1
+  version: 2.3.1
+  origversion: 2.3.1-1.1
   status: outdated
   summary: Command-line agentic coding assistant powered by Kimi models
   licenses:
@@ -138,7 +138,7 @@
   subrepo: main
   binname: kimi-code
   visiblename: kimi-code
-  version: 2.3.2
+  version: 2.3.3
   origversion: null
   status: newest
   licenses:
