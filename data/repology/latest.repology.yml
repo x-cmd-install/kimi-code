@@ -1,10 +1,3 @@
-- repo: homebrew
-  srcname: kimi-code
-  visiblename: kimi-code
-  version: 2.3.2
-  origversion: null
-  status: outdated
-  summary: AI coding agent for your terminal
 - repo: aur
   srcname: kimi-code
   binname: kimi-code
@@ -62,6 +55,13 @@
     - MIT
   categories:
     - dev-util
+- repo: homebrew
+  srcname: kimi-code
+  visiblename: kimi-code
+  version: 2.3.3
+  origversion: null
+  status: newest
+  summary: AI coding agent for your terminal
 - repo: liguros_develop
   srcname: dev-util/kimi-code-bin
   visiblename: dev-util/kimi-code-bin
