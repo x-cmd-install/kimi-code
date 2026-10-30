@@ -58,9 +58,9 @@
 - repo: homebrew
   srcname: kimi-code
   visiblename: kimi-code
-  version: 2.3.3
+  version: 2.4.0
   origversion: null
-  status: outdated
+  status: newest
   summary: AI coding agent for your terminal
 - repo: liguros_develop
   srcname: dev-util/kimi-code-bin
