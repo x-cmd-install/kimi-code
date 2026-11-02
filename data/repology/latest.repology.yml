@@ -25,9 +25,9 @@
 - repo: chocolatey
   binname: kimi-code
   visiblename: Kimi Code
-  version: 2.3.2
+  version: 2.4.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Kimi's terminal coding agent from Moonshot AI
 - repo: gentoo_ovl_guru
   srcname: dev-util/kimi-code-bin
