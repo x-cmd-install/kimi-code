@@ -2,9 +2,9 @@
   srcname: kimi-code
   binname: kimi-code
   visiblename: kimi-code
-  version: 2.3.1
-  origversion: 2.3.1-1
-  status: outdated
+  version: 2.4.1
+  origversion: 2.4.1-1
+  status: newest
   summary: The Starting Point for Next-Gen Agents
   maintainers:
     - alissonlauffer@aur
@@ -126,9 +126,9 @@
     - kimi-code-debuginfo
     - kimi-code-debugsource
   visiblename: kimi-code
-  version: 2.3.1
-  origversion: 2.3.1-1.1
-  status: outdated
+  version: 2.4.1
+  origversion: 2.4.1-1.1
+  status: newest
   summary: Command-line agentic coding assistant powered by Kimi models
   licenses:
     - MIT
