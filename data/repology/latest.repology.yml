@@ -92,9 +92,9 @@
   srcname: mingw-w64-kimi-code
   binname: mingw-w64-clang-x86_64-kimi-code
   visiblename: mingw-w64-clang-x86_64-kimi-code
-  version: 2.3.1
-  origversion: 2.3.1-1
-  status: outdated
+  version: 2.4.1
+  origversion: 2.4.1-1
+  status: newest
   summary: An open-source AI coding agent developed by Moonshot AI and highly optimized for Kimi models (mingw-w64)
   licenses:
     - spdx:MIT
@@ -102,9 +102,9 @@
   srcname: mingw-w64-kimi-code
   binname: mingw-w64-clang-aarch64-kimi-code
   visiblename: mingw-w64-clang-aarch64-kimi-code
-  version: 2.3.1
-  origversion: 2.3.1-1
-  status: outdated
+  version: 2.4.1
+  origversion: 2.4.1-1
+  status: newest
   summary: An open-source AI coding agent developed by Moonshot AI and highly optimized for Kimi models (mingw-w64)
   licenses:
     - spdx:MIT
@@ -112,9 +112,9 @@
   srcname: mingw-w64-kimi-code
   binname: mingw-w64-ucrt-x86_64-kimi-code
   visiblename: mingw-w64-ucrt-x86_64-kimi-code
-  version: 2.3.1
-  origversion: 2.3.1-1
-  status: outdated
+  version: 2.4.1
+  origversion: 2.4.1-1
+  status: newest
   summary: An open-source AI coding agent developed by Moonshot AI and highly optimized for Kimi models (mingw-w64)
   licenses:
     - spdx:MIT
