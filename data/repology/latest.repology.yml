@@ -2,9 +2,9 @@
   srcname: kimi-code
   binname: kimi-code
   visiblename: kimi-code
-  version: 2.4.1
-  origversion: 2.4.1-1
-  status: outdated
+  version: 2.5.1
+  origversion: 2.5.1-1
+  status: newest
   summary: The Starting Point for Next-Gen Agents
   maintainers:
     - alissonlauffer@aur
@@ -14,8 +14,8 @@
   srcname: kimi-code-bin
   binname: kimi-code-bin
   visiblename: kimi-code-bin
-  version: 2.5.0
-  origversion: 2.5.0-1
+  version: 2.5.1
+  origversion: 2.5.1-1
   status: newest
   summary: Kimi Code CLI - the starting point for next-gen agents (prebuilt binary)
   maintainers:
@@ -58,7 +58,7 @@
 - repo: homebrew
   srcname: kimi-code
   visiblename: kimi-code
-  version: 2.4.1
+  version: 2.5.0
   origversion: null
   status: outdated
   summary: AI coding agent for your terminal
@@ -138,7 +138,7 @@
   subrepo: main
   binname: kimi-code
   visiblename: kimi-code
-  version: 2.5.0
+  version: 2.5.1
   origversion: null
   status: newest
   licenses:
