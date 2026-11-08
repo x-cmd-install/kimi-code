@@ -38,22 +38,22 @@ Total: **757,624** lines of code across **3958** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 8,158 · **Forks**: 1,356 · **Open issues**: 1,665 · **Contributors**: 66
+- **Stars**: 8,167 · **Forks**: 1,358 · **Open issues**: 1,666 · **Contributors**: 66
 
 ## Totals (cumulative)
 
-- **Releases**: 97 · **Merged PRs**: 1899 · **Open PRs**: 539 · **Closed issues**: 413 · **Open issues**: 1252 · **Commits**: 1807
+- **Releases**: 97 · **Merged PRs**: 1899 · **Open PRs**: 538 · **Closed issues**: 414 · **Open issues**: 1252 · **Commits**: 1807
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 16 | 225 | 113 | 11 | 191 | 176 |
-| last60d | 2026-09-08 | 24 | 415 | 159 | 36 | 381 | 340 |
-| 90d | 2026-08-09 | 36 | 768 | 242 | 94 | 677 | 693 |
-| last180d | 2026-05-11 | 97 | 1898 | 539 | 413 | 1252 | 1807 |
-| 360d | 2025-11-12 | 97 | 1898 | 539 | 413 | 1252 | 1807 |
-| last720d | 2024-11-17 | 97 | 1898 | 539 | 413 | 1252 | 1807 |
+| 30d | 2026-10-09 | 16 | 221 | 112 | 11 | 189 | 176 |
+| last60d | 2026-09-09 | 24 | 401 | 154 | 34 | 373 | 340 |
+| 90d | 2026-08-10 | 36 | 768 | 234 | 94 | 669 | 693 |
+| last180d | 2026-05-12 | 97 | 1898 | 538 | 414 | 1252 | 1807 |
+| 360d | 2025-11-13 | 97 | 1898 | 538 | 414 | 1252 | 1807 |
+| last720d | 2024-11-18 | 97 | 1898 | 538 | 414 | 1252 | 1807 |
 
 ## Release assets
 
@@ -99,11 +99,11 @@ Total: **757,624** lines of code across **3958** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **13** distros on [repology.org](https://repology.org/project/kimi-code). **2** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **14** distros on [repology.org](https://repology.org/project/kimi-code). **7** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `2.5.1` | ⚠️ outdated |
+| Homebrew | `2.5.2` | ✅ latest |
 | openSUSE Tumbleweed | `2.4.1` | ⚠️ outdated |
 
 ## Improve this data
@@ -115,4 +115,4 @@ Install metadata for kimi-code lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T07:25:25Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T07:21:19Z._
