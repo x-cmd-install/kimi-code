@@ -29,6 +29,18 @@
   origversion: null
   status: outdated
   summary: Kimi's terminal coding agent from Moonshot AI
+- repo: freebsd
+  srcname: misc/kimi-code
+  binname: kimi-code
+  visiblename: misc/kimi-code
+  version: 2.5.2
+  origversion: null
+  status: newest
+  summary: Coding agent for the terminal, driven by the Kimi models
+  maintainers:
+    - joneum@freebsd.org
+  categories:
+    - misc
 - repo: gentoo_ovl_guru
   srcname: dev-util/kimi-code-bin
   visiblename: dev-util/kimi-code-bin
@@ -58,9 +70,9 @@
 - repo: homebrew
   srcname: kimi-code
   visiblename: kimi-code
-  version: 2.5.1
+  version: 2.5.2
   origversion: null
-  status: outdated
+  status: newest
   summary: AI coding agent for your terminal
 - repo: liguros_develop
   srcname: dev-util/kimi-code-bin
@@ -92,9 +104,9 @@
   srcname: mingw-w64-kimi-code
   binname: mingw-w64-clang-x86_64-kimi-code
   visiblename: mingw-w64-clang-x86_64-kimi-code
-  version: 2.4.1
-  origversion: 2.4.1-1
-  status: outdated
+  version: 2.5.2
+  origversion: 2.5.2-1
+  status: newest
   summary: An open-source AI coding agent developed by Moonshot AI and highly optimized for Kimi models (mingw-w64)
   licenses:
     - spdx:MIT
@@ -102,9 +114,9 @@
   srcname: mingw-w64-kimi-code
   binname: mingw-w64-clang-aarch64-kimi-code
   visiblename: mingw-w64-clang-aarch64-kimi-code
-  version: 2.4.1
-  origversion: 2.4.1-1
-  status: outdated
+  version: 2.5.2
+  origversion: 2.5.2-1
+  status: newest
   summary: An open-source AI coding agent developed by Moonshot AI and highly optimized for Kimi models (mingw-w64)
   licenses:
     - spdx:MIT
@@ -112,9 +124,9 @@
   srcname: mingw-w64-kimi-code
   binname: mingw-w64-ucrt-x86_64-kimi-code
   visiblename: mingw-w64-ucrt-x86_64-kimi-code
-  version: 2.4.1
-  origversion: 2.4.1-1
-  status: outdated
+  version: 2.5.2
+  origversion: 2.5.2-1
+  status: newest
   summary: An open-source AI coding agent developed by Moonshot AI and highly optimized for Kimi models (mingw-w64)
   licenses:
     - spdx:MIT
