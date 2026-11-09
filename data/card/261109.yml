@@ -1,0 +1,194 @@
+about:
+  description: "Kimi Code CLI  —  The Starting Point for Next-Gen Agents"
+  license: MIT
+  homepage: https://www.kimi.com/code/docs/
+  head: 27bd9ba
+  archived: false
+  latestVersion: "@moonshot-ai/kimi-code@2.6.0-canary.20261109040420-9c1a9c3"
+  latestRelease: "@moonshot-ai/kimi-code@2.5.2"
+  latestPrerelease: "@moonshot-ai/kimi-code@2.6.0-canary.20261109040420-9c1a9c3"
+  collectedAt: 2026-11-09T07:56:27Z
+timeline:
+  created: 2026-05-22
+  lastCommit: 2026-11-09
+  lastVersion: 2026-11-09
+  lastRelease: 2026-11-06
+  lastPrerelease: 2026-11-09
+popularity:
+  star: 8181
+  watcher: 37
+  fork: 1360
+  release: 97
+  contributor: 66
+  pullRequest: 3068
+  issue: 1667
+language:
+  TypeScript: 30324521
+  JavaScript: 648977
+  C: 36163
+  CSS: 11661
+  Shell: 10024
+  Nix: 8549
+  Objective-C: 5876
+  HTML: 2928
+  Dockerfile: 992
+  Makefile: 693
+totalBytes: 31050384
+recent:
+  last30d:
+    since: 2026-10-10
+    release: 16
+    mergedPR: 220
+    openPR: 113
+    closedIssue: 12
+    openIssue: 183
+    commit: 145
+  last60d:
+    since: 2026-09-10
+    release: 23
+    mergedPR: 387
+    openPR: 153
+    closedIssue: 35
+    openIssue: 366
+    commit: 278
+  last90d:
+    since: 2026-08-11
+    release: 36
+    mergedPR: 759
+    openPR: 223
+    closedIssue: 96
+    openIssue: 655
+    commit: 632
+  last180d:
+    since: 2026-05-13
+    release: 97
+    mergedPR: 1903
+    openPR: 538
+    closedIssue: 416
+    openIssue: 1251
+    commit: 1812
+  last360d:
+    since: 2025-11-14
+    release: 97
+    mergedPR: 1903
+    openPR: 538
+    closedIssue: 416
+    openIssue: 1251
+    commit: 1812
+  last720d:
+    since: 2024-11-19
+    release: 97
+    mergedPR: 1903
+    openPR: 538
+    closedIssue: 416
+    openIssue: 1251
+    commit: 1812
+total:
+  release: 97
+  mergedPR: 1904
+  openPR: 538
+  closedIssue: 416
+  openIssue: 1251
+  commit: 1812
+---
+path: /home/runner/.x-repo/github.com/MoonshotAI/kimi-code
+collectedAt: 2026-11-09T07:56:47Z
+loc:
+  TypeScript:
+    code: 709256
+    comments: 29253
+    blanks: 81414
+    files: 3256
+  Yaml:
+    code: 17373
+    comments: 1
+    blanks: 1457
+    files: 2
+  JavaScript:
+    code: 16762
+    comments: 865
+    blanks: 1137
+    files: 533
+  Tsx:
+    code: 13192
+    comments: 250
+    blanks: 1196
+    files: 103
+  Json:
+    code: 2066
+    comments: 0
+    blanks: 3
+    files: 65
+  C:
+    code: 678
+    comments: 11
+    blanks: 67
+    files: 4
+  Css:
+    code: 389
+    comments: 27
+    blanks: 60
+    files: 8
+  Python:
+    code: 339
+    comments: 0
+    blanks: 33
+    files: 1
+  CHeader:
+    code: 333
+    comments: 6
+    blanks: 30
+    files: 3
+  Sh:
+    code: 269
+    comments: 6
+    blanks: 42
+    files: 3
+  Nix:
+    code: 203
+    comments: 31
+    blanks: 23
+    files: 1
+  ObjectiveC:
+    code: 125
+    comments: 0
+    blanks: 7
+    files: 1
+  Html:
+    code: 52
+    comments: 8
+    blanks: 0
+    files: 3
+  Svg:
+    code: 40
+    comments: 3
+    blanks: 2
+    files: 3
+  Toml:
+    code: 38
+    comments: 424
+    blanks: 67
+    files: 1
+  Makefile:
+    code: 34
+    comments: 8
+    blanks: 25
+    files: 1
+  Markdown:
+    code: 0
+    comments: 19061
+    blanks: 9492
+    files: 195
+  Text:
+    code: 0
+    comments: 8510
+    blanks: 524
+    files: 14
+total:
+  code: 762578
+  comments: 58656
+  blanks: 95745
+  files: 4197
+---
+
+---

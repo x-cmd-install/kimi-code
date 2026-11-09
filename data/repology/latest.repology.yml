@@ -46,7 +46,7 @@
   visiblename: dev-util/kimi-code-bin
   version: 2.4.1
   origversion: null
-  status: outdated
+  status: legacy
   summary: Kimi Code CLI, Moonshot AI's command-line coding agent
   maintainers:
     - vowstar@gmail.com
@@ -57,9 +57,9 @@
 - repo: gentoo_ovl_guru
   srcname: dev-util/kimi-code-bin
   visiblename: dev-util/kimi-code-bin
-  version: 2.3.3
+  version: 2.5.2
   origversion: null
-  status: legacy
+  status: newest
   summary: Kimi Code CLI, Moonshot AI's command-line coding agent
   maintainers:
     - vowstar@gmail.com
@@ -77,9 +77,9 @@
 - repo: liguros_develop
   srcname: dev-util/kimi-code-bin
   visiblename: dev-util/kimi-code-bin
-  version: 2.4.1
+  version: 2.5.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Kimi Code CLI, Moonshot AI's command-line coding agent
   maintainers:
     - vowstar@gmail.com
@@ -90,7 +90,7 @@
 - repo: liguros_develop
   srcname: dev-util/kimi-code-bin
   visiblename: dev-util/kimi-code-bin
-  version: 2.3.3
+  version: 2.4.1
   origversion: null
   status: legacy
   summary: Kimi Code CLI, Moonshot AI's command-line coding agent
