@@ -14,8 +14,8 @@
   srcname: kimi-code-bin
   binname: kimi-code-bin
   visiblename: kimi-code-bin
-  version: 2.5.2
-  origversion: 2.5.2-1
+  version: 2.5.3
+  origversion: 2.5.3-1
   status: newest
   summary: Kimi Code CLI - the starting point for next-gen agents (prebuilt binary)
   maintainers:
@@ -35,7 +35,7 @@
   visiblename: misc/kimi-code
   version: 2.5.2
   origversion: null
-  status: newest
+  status: outdated
   summary: Coding agent for the terminal, driven by the Kimi models
   maintainers:
     - joneum@freebsd.org
@@ -59,7 +59,7 @@
   visiblename: dev-util/kimi-code-bin
   version: 2.5.2
   origversion: null
-  status: newest
+  status: outdated
   summary: Kimi Code CLI, Moonshot AI's command-line coding agent
   maintainers:
     - vowstar@gmail.com
@@ -72,14 +72,14 @@
   visiblename: kimi-code
   version: 2.5.2
   origversion: null
-  status: newest
+  status: outdated
   summary: AI coding agent for your terminal
 - repo: liguros_develop
   srcname: dev-util/kimi-code-bin
   visiblename: dev-util/kimi-code-bin
   version: 2.5.2
   origversion: null
-  status: newest
+  status: outdated
   summary: Kimi Code CLI, Moonshot AI's command-line coding agent
   maintainers:
     - vowstar@gmail.com
@@ -106,7 +106,7 @@
   visiblename: mingw-w64-clang-x86_64-kimi-code
   version: 2.5.2
   origversion: 2.5.2-1
-  status: newest
+  status: outdated
   summary: An open-source AI coding agent developed by Moonshot AI and highly optimized for Kimi models (mingw-w64)
   licenses:
     - spdx:MIT
@@ -116,7 +116,7 @@
   visiblename: mingw-w64-clang-aarch64-kimi-code
   version: 2.5.2
   origversion: 2.5.2-1
-  status: newest
+  status: outdated
   summary: An open-source AI coding agent developed by Moonshot AI and highly optimized for Kimi models (mingw-w64)
   licenses:
     - spdx:MIT
@@ -126,7 +126,7 @@
   visiblename: mingw-w64-ucrt-x86_64-kimi-code
   version: 2.5.2
   origversion: 2.5.2-1
-  status: newest
+  status: outdated
   summary: An open-source AI coding agent developed by Moonshot AI and highly optimized for Kimi models (mingw-w64)
   licenses:
     - spdx:MIT
@@ -140,7 +140,7 @@
   visiblename: kimi-code
   version: 2.5.2
   origversion: 2.5.2-1.1
-  status: newest
+  status: outdated
   summary: Command-line agentic coding assistant powered by Kimi models
   licenses:
     - MIT
@@ -150,7 +150,7 @@
   subrepo: main
   binname: kimi-code
   visiblename: kimi-code
-  version: 2.5.2
+  version: 2.5.3
   origversion: null
   status: newest
   licenses:
