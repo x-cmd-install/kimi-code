@@ -14,14 +14,14 @@ x install kimi-code
 
 ## Code insight
 
-Total: **759,717** lines of code across **3936** files in the top 5 languages.
+Total: **763,256** lines of code across **3947** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 707,925 | 29,131 | 81,067 | 3234 |
+| TypeScript | 711,440 | 29,132 | 81,291 | 3245 |
 | Yaml | 17,385 | 1 | 1,458 | 2 |
-| JavaScript | 16,638 | 864 | 1,127 | 532 |
-| Tsx | 13,197 | 250 | 1,197 | 103 |
+| JavaScript | 16,655 | 864 | 1,127 | 532 |
+| Tsx | 13,204 | 250 | 1,197 | 103 |
 | Json | 2,072 | 0 | 3 | 65 |
 
 ## Source
@@ -32,28 +32,28 @@ Total: **759,717** lines of code across **3936** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `@moonshot-ai/kimi-code@2.6.0-canary.20261111052659-f26481d` (2026-11-10)
-- **Last commit**: 2026-11-11
+- **Latest**: `@moonshot-ai/kimi-code@2.6.0-canary.20261112033252-d729f91` (2026-11-10)
+- **Last commit**: 2026-11-12
 - **Assets in release**: 37
 
 ## Popularity
 
-- **Stars**: 8,198 · **Forks**: 1,363 · **Open issues**: 1,676 · **Contributors**: 67
+- **Stars**: 8,206 · **Forks**: 1,366 · **Open issues**: 1,686 · **Contributors**: 68
 
 ## Totals (cumulative)
 
-- **Releases**: 98 · **Merged PRs**: 1957 · **Open PRs**: 534 · **Closed issues**: 421 · **Open issues**: 1255 · **Commits**: 1856
+- **Releases**: 100 · **Merged PRs**: 1983 · **Open PRs**: 536 · **Closed issues**: 421 · **Open issues**: 1265 · **Commits**: 1868
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 17 | 268 | 109 | 16 | 181 | 189 |
-| last60d | 2026-09-12 | 24 | 430 | 147 | 39 | 367 | 322 |
-| 90d | 2026-08-13 | 36 | 777 | 211 | 98 | 642 | 676 |
-| last180d | 2026-05-15 | 98 | 1956 | 534 | 421 | 1255 | 1856 |
-| 360d | 2025-11-16 | 98 | 1956 | 534 | 421 | 1255 | 1856 |
-| last720d | 2024-11-21 | 98 | 1956 | 534 | 421 | 1255 | 1856 |
+| 30d | 2026-10-13 | 19 | 290 | 109 | 16 | 186 | 201 |
+| last60d | 2026-09-13 | 26 | 455 | 148 | 39 | 370 | 334 |
+| 90d | 2026-08-14 | 37 | 787 | 209 | 94 | 648 | 688 |
+| last180d | 2026-05-16 | 100 | 1982 | 536 | 421 | 1265 | 1868 |
+| 360d | 2025-11-17 | 100 | 1982 | 536 | 421 | 1265 | 1868 |
+| last720d | 2024-11-22 | 100 | 1982 | 536 | 421 | 1265 | 1868 |
 
 ## Release assets
 
@@ -99,11 +99,11 @@ Total: **759,717** lines of code across **3936** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **14** distros on [repology.org](https://repology.org/project/kimi-code). **2** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+Reported by **14** distros on [repology.org](https://repology.org/project/kimi-code). **3** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `2.5.2` | ⚠️ outdated |
+| Homebrew | `2.5.3` | ✅ latest |
 | openSUSE Tumbleweed | `2.5.2` | ⚠️ outdated |
 
 ## Improve this data
@@ -115,4 +115,4 @@ Install metadata for kimi-code lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:46:34Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T09:09:46Z._
