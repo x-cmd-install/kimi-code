@@ -1,3 +1,12 @@
+- repo: scoop
+  subrepo: main
+  binname: kimi-code
+  visiblename: kimi-code
+  version: 2.5.3
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
 - repo: aur
   srcname: kimi-code
   binname: kimi-code
@@ -70,9 +79,9 @@
 - repo: homebrew
   srcname: kimi-code
   visiblename: kimi-code
-  version: 2.5.2
+  version: 2.5.3
   origversion: null
-  status: outdated
+  status: newest
   summary: AI coding agent for your terminal
 - repo: liguros_develop
   srcname: dev-util/kimi-code-bin
@@ -146,12 +155,3 @@
     - MIT
   categories:
     - Unspecified
-- repo: scoop
-  subrepo: main
-  binname: kimi-code
-  visiblename: kimi-code
-  version: 2.5.3
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
