@@ -25,9 +25,9 @@
 - repo: chocolatey
   binname: kimi-code
   visiblename: Kimi Code
-  version: 2.4.1
+  version: 2.6.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Kimi's terminal coding agent from Moonshot AI
 - repo: freebsd
   srcname: misc/kimi-code
