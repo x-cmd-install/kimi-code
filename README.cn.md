@@ -14,15 +14,15 @@ x install kimi-code
 
 ## 代码洞察
 
-合计: **766,424** 行代码（覆盖前 5 种语言、共 **4033** 个文件）。
+合计: **1,049,613** 行代码（覆盖前 5 种语言、共 **5431** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 714,161 | 29,875 | 81,362 | 3329 |
-| Yaml | 17,762 | 1 | 1,490 | 2 |
-| JavaScript | 16,662 | 864 | 1,127 | 532 |
-| Tsx | 13,204 | 250 | 1,197 | 103 |
-| Json | 2,133 | 0 | 3 | 67 |
+| TypeScript | 983,775 | 11,961 | 108,855 | 4913 |
+| Yaml | 21,235 | 11 | 1,764 | 4 |
+| JavaScript | 13,552 | 4 | 1,137 | 136 |
+| Tsx | 13,182 | 0 | 1,193 | 103 |
+| Vue | 6,082 | 186 | 707 | 275 |
 
 ## 源代码
 
@@ -32,79 +32,79 @@ x install kimi-code
 
 ## 发布
 
-- **最新版本**: `@moonshot-ai/kimi-code@2.6.2` (2026-11-13)
-- **最近提交**: 2026-11-16
+- **最新版本**: `kimi-code-desktop@1.4.0-canary.20261119093642-cab0c0e` (2026-11-17)
+- **最近提交**: 2026-11-19
 - **Release 含资产**: 37 个
 
 ## 流行度
 
-- **Star**: 8,236 · **Fork**: 1,386 · **开放 issue**: 1,728 · **贡献者**: 68
+- **Star**: 8,259 · **Fork**: 1,393 · **开放 issue**: 1,759 · **贡献者**: 68
 
 ## 累计统计
 
-- **发布数**: 102 · **已合并 PR**: 2023 · **开放 PR**: 557 · **已关闭 issue**: 425 · **开放 issue**: 1303 · **提交数**: 1888
+- **发布数**: 104 · **已合并 PR**: 2093 · **开放 PR**: 573 · **已关闭 issue**: 427 · **开放 issue**: 1332 · **提交数**: 1930
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 20 | 308 | 119 | 15 | 200 | 198 |
-| last60d | 2026-09-17 | 26 | 420 | 159 | 36 | 375 | 288 |
-| 90d | 2026-08-18 | 38 | 782 | 209 | 90 | 648 | 615 |
-| last180d | 2026-05-20 | 100 | 2022 | 557 | 425 | 1303 | 1870 |
-| 360d | 2025-11-21 | 100 | 2022 | 557 | 425 | 1303 | 1888 |
-| last720d | 2024-11-26 | 100 | 2022 | 557 | 425 | 1303 | 1888 |
+| 30d | 2026-10-20 | 22 | 364 | 135 | 16 | 223 | 240 |
+| last60d | 2026-09-20 | 25 | 462 | 175 | 34 | 377 | 330 |
+| 90d | 2026-08-21 | 36 | 809 | 215 | 87 | 644 | 657 |
+| last180d | 2026-05-23 | 100 | 2091 | 573 | 427 | 1332 | 1912 |
+| 360d | 2025-11-24 | 100 | 2092 | 573 | 427 | 1332 | 1930 |
+| last720d | 2024-11-29 | 100 | 2092 | 573 | 427 | 1332 | 1930 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [kimi-code-darwin-arm64.tar.gz](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-darwin-arm64.tar.gz) | 57.1 MiB | `native/darwin/arm64` |
-| [kimi-code-darwin-arm64.tar.gz.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-darwin-arm64.tar.gz.sha256) | 96 B | `native/darwin/arm64` |
-| [kimi-code-darwin-arm64.zip](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-darwin-arm64.zip) | 58.2 MiB | `native/darwin/arm64` |
-| [kimi-code-darwin-arm64.zip.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-darwin-arm64.zip.sha256) | 93 B | `native/darwin/arm64` |
-| [kimi-code-darwin-arm64.zst](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-darwin-arm64.zst) | 43.2 MiB | `native/darwin/arm64` |
-| [kimi-code-darwin-arm64.zst.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-darwin-arm64.zst.sha256) | 93 B | `native/darwin/arm64` |
-| [kimi-code-darwin-x64.tar.gz](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-darwin-x64.tar.gz) | 58.3 MiB | `native/darwin/x64` |
-| [kimi-code-darwin-x64.tar.gz.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-darwin-x64.tar.gz.sha256) | 94 B | `native/darwin/x64` |
-| [kimi-code-darwin-x64.zip](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-darwin-x64.zip) | 59.2 MiB | `native/darwin/x64` |
-| [kimi-code-darwin-x64.zip.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-darwin-x64.zip.sha256) | 91 B | `native/darwin/x64` |
-| [kimi-code-darwin-x64.zst](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-darwin-x64.zst) | 44.2 MiB | `native/darwin/x64` |
-| [kimi-code-darwin-x64.zst.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-darwin-x64.zst.sha256) | 91 B | `native/darwin/x64` |
-| [kimi-code-linux-arm64.tar.gz](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-linux-arm64.tar.gz) | 60.0 MiB | `native/linux/arm64` |
-| [kimi-code-linux-arm64.tar.gz.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-linux-arm64.tar.gz.sha256) | 95 B | `native/linux/arm64` |
-| [kimi-code-linux-arm64.zip](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-linux-arm64.zip) | 61.4 MiB | `native/linux/arm64` |
-| [kimi-code-linux-arm64.zip.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-linux-arm64.zip.sha256) | 92 B | `native/linux/arm64` |
-| [kimi-code-linux-arm64.zst](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-linux-arm64.zst) | 45.9 MiB | `native/linux/arm64` |
-| [kimi-code-linux-arm64.zst.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-linux-arm64.zst.sha256) | 92 B | `native/linux/arm64` |
-| [kimi-code-linux-x64.tar.gz](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-linux-x64.tar.gz) | 60.4 MiB | `native/unknown` |
-| [kimi-code-linux-x64.tar.gz.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-linux-x64.tar.gz.sha256) | 93 B | `other` |
-| [kimi-code-linux-x64.zip](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-linux-x64.zip) | 61.5 MiB | `other` |
-| [kimi-code-linux-x64.zip.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-linux-x64.zip.sha256) | 90 B | `other` |
-| [kimi-code-linux-x64.zst](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-linux-x64.zst) | 46.1 MiB | `other` |
-| [kimi-code-linux-x64.zst.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-linux-x64.zst.sha256) | 90 B | `other` |
-| [kimi-code-win32-arm64.tar.gz](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-win32-arm64.tar.gz) | 48.5 MiB | `native/win/arm64` |
-| [kimi-code-win32-arm64.tar.gz.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-win32-arm64.tar.gz.sha256) | 95 B | `native/win/arm64` |
-| [kimi-code-win32-arm64.zip](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-win32-arm64.zip) | 49.6 MiB | `native/win/arm64` |
-| [kimi-code-win32-arm64.zip.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-win32-arm64.zip.sha256) | 92 B | `native/win/arm64` |
-| [kimi-code-win32-arm64.zst](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-win32-arm64.zst) | 37.0 MiB | `native/win/arm64` |
-| [kimi-code-win32-arm64.zst.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-win32-arm64.zst.sha256) | 92 B | `native/win/arm64` |
-| [kimi-code-win32-x64.tar.gz](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-win32-x64.tar.gz) | 52.3 MiB | `native/win/x64` |
-| [kimi-code-win32-x64.tar.gz.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-win32-x64.tar.gz.sha256) | 93 B | `native/win/x64` |
-| [kimi-code-win32-x64.zip](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-win32-x64.zip) | 53.2 MiB | `native/win/x64` |
-| [kimi-code-win32-x64.zip.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-win32-x64.zip.sha256) | 90 B | `native/win/x64` |
-| [kimi-code-win32-x64.zst](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-win32-x64.zst) | 39.6 MiB | `native/win/x64` |
-| [kimi-code-win32-x64.zst.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/kimi-code-win32-x64.zst.sha256) | 90 B | `native/win/x64` |
-| [manifest.json](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.2/manifest.json) | 2.0 KiB | `other` |
+| [kimi-code-darwin-arm64.tar.gz](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-darwin-arm64.tar.gz) | 57.2 MiB | `native/darwin/arm64` |
+| [kimi-code-darwin-arm64.tar.gz.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-darwin-arm64.tar.gz.sha256) | 96 B | `native/darwin/arm64` |
+| [kimi-code-darwin-arm64.zip](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-darwin-arm64.zip) | 58.3 MiB | `native/darwin/arm64` |
+| [kimi-code-darwin-arm64.zip.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-darwin-arm64.zip.sha256) | 93 B | `native/darwin/arm64` |
+| [kimi-code-darwin-arm64.zst](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-darwin-arm64.zst) | 43.3 MiB | `native/darwin/arm64` |
+| [kimi-code-darwin-arm64.zst.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-darwin-arm64.zst.sha256) | 93 B | `native/darwin/arm64` |
+| [kimi-code-darwin-x64.tar.gz](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-darwin-x64.tar.gz) | 58.4 MiB | `native/darwin/x64` |
+| [kimi-code-darwin-x64.tar.gz.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-darwin-x64.tar.gz.sha256) | 94 B | `native/darwin/x64` |
+| [kimi-code-darwin-x64.zip](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-darwin-x64.zip) | 59.3 MiB | `native/darwin/x64` |
+| [kimi-code-darwin-x64.zip.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-darwin-x64.zip.sha256) | 91 B | `native/darwin/x64` |
+| [kimi-code-darwin-x64.zst](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-darwin-x64.zst) | 44.3 MiB | `native/darwin/x64` |
+| [kimi-code-darwin-x64.zst.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-darwin-x64.zst.sha256) | 91 B | `native/darwin/x64` |
+| [kimi-code-linux-arm64.tar.gz](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-linux-arm64.tar.gz) | 60.1 MiB | `native/linux/arm64` |
+| [kimi-code-linux-arm64.tar.gz.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-linux-arm64.tar.gz.sha256) | 95 B | `native/linux/arm64` |
+| [kimi-code-linux-arm64.zip](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-linux-arm64.zip) | 61.5 MiB | `native/linux/arm64` |
+| [kimi-code-linux-arm64.zip.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-linux-arm64.zip.sha256) | 92 B | `native/linux/arm64` |
+| [kimi-code-linux-arm64.zst](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-linux-arm64.zst) | 45.9 MiB | `native/linux/arm64` |
+| [kimi-code-linux-arm64.zst.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-linux-arm64.zst.sha256) | 92 B | `native/linux/arm64` |
+| [kimi-code-linux-x64.tar.gz](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-linux-x64.tar.gz) | 60.4 MiB | `native/unknown` |
+| [kimi-code-linux-x64.tar.gz.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-linux-x64.tar.gz.sha256) | 93 B | `other` |
+| [kimi-code-linux-x64.zip](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-linux-x64.zip) | 61.5 MiB | `other` |
+| [kimi-code-linux-x64.zip.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-linux-x64.zip.sha256) | 90 B | `other` |
+| [kimi-code-linux-x64.zst](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-linux-x64.zst) | 46.1 MiB | `other` |
+| [kimi-code-linux-x64.zst.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-linux-x64.zst.sha256) | 90 B | `other` |
+| [kimi-code-win32-arm64.tar.gz](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-win32-arm64.tar.gz) | 48.5 MiB | `native/win/arm64` |
+| [kimi-code-win32-arm64.tar.gz.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-win32-arm64.tar.gz.sha256) | 95 B | `native/win/arm64` |
+| [kimi-code-win32-arm64.zip](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-win32-arm64.zip) | 49.6 MiB | `native/win/arm64` |
+| [kimi-code-win32-arm64.zip.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-win32-arm64.zip.sha256) | 92 B | `native/win/arm64` |
+| [kimi-code-win32-arm64.zst](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-win32-arm64.zst) | 37.0 MiB | `native/win/arm64` |
+| [kimi-code-win32-arm64.zst.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-win32-arm64.zst.sha256) | 92 B | `native/win/arm64` |
+| [kimi-code-win32-x64.tar.gz](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-win32-x64.tar.gz) | 52.3 MiB | `native/win/x64` |
+| [kimi-code-win32-x64.tar.gz.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-win32-x64.tar.gz.sha256) | 93 B | `native/win/x64` |
+| [kimi-code-win32-x64.zip](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-win32-x64.zip) | 53.3 MiB | `native/win/x64` |
+| [kimi-code-win32-x64.zip.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-win32-x64.zip.sha256) | 90 B | `native/win/x64` |
+| [kimi-code-win32-x64.zst](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-win32-x64.zst) | 39.6 MiB | `native/win/x64` |
+| [kimi-code-win32-x64.zst.sha256](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/kimi-code-win32-x64.zst.sha256) | 90 B | `native/win/x64` |
+| [manifest.json](https://github.com/MoonshotAI/kimi-code/releases/download/@moonshot-ai/kimi-code@2.6.3/manifest.json) | 2.0 KiB | `other` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/kimi-code) 上共有 **14** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/kimi-code) 上共有 **14** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `2.6.2` | ✅ latest |
-| openSUSE Tumbleweed | `2.5.2` | ⚠️ outdated |
+| Homebrew | `2.6.3` | ✅ latest |
+| openSUSE Tumbleweed | `2.5.3` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -115,4 +115,4 @@ kimi-code 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T08:55:24Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T10:39:53Z._
