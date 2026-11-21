@@ -14,8 +14,8 @@
   srcname: kimi-code-bin
   binname: kimi-code-bin
   visiblename: kimi-code-bin
-  version: 2.7.0
-  origversion: 2.7.0-1
+  version: 2.7.2
+  origversion: 2.7.2-1
   status: newest
   summary: Kimi Code CLI - the starting point for next-gen agents (prebuilt binary)
   maintainers:
@@ -70,7 +70,7 @@
 - repo: homebrew
   srcname: kimi-code
   visiblename: kimi-code
-  version: 2.6.3
+  version: 2.7.0
   origversion: null
   status: outdated
   summary: AI coding agent for your terminal
