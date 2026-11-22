@@ -33,9 +33,9 @@
   srcname: misc/kimi-code
   binname: kimi-code
   visiblename: misc/kimi-code
-  version: 2.6.3
+  version: 2.7.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Coding agent for the terminal, driven by the Kimi models
   maintainers:
     - joneum@freebsd.org
@@ -70,9 +70,9 @@
 - repo: homebrew
   srcname: kimi-code
   visiblename: kimi-code
-  version: 2.7.0
+  version: 2.7.2
   origversion: null
-  status: outdated
+  status: newest
   summary: AI coding agent for your terminal
 - repo: liguros_develop
   srcname: dev-util/kimi-code-bin
