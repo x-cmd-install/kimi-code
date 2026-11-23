@@ -2,31 +2,31 @@ about:
   description: "Kimi Code CLI  —  The Starting Point for Next-Gen Agents"
   license: MIT
   homepage: https://www.kimi.com/code/docs/
-  head: 83e4dde
+  head: 3d7f4c1
   archived: false
-  latestVersion: "kimi-code-desktop@1.5.0-canary.20261122032410-83e4dde"
+  latestVersion: "kimi-code-desktop@1.5.0-canary.20261123052207-c106716"
   latestRelease: "@moonshot-ai/kimi-code@2.7.2"
-  latestPrerelease: "kimi-code-desktop@1.5.0-canary.20261122032410-83e4dde"
-  collectedAt: 2026-11-22T07:59:14Z
+  latestPrerelease: "kimi-code-desktop@1.5.0-canary.20261123052207-c106716"
+  collectedAt: 2026-11-23T09:15:30Z
 timeline:
   created: 2026-05-22
-  lastCommit: 2026-11-20
-  lastVersion: 2026-11-22
+  lastCommit: 2026-11-23
+  lastVersion: 2026-11-23
   lastRelease: 2026-11-20
-  lastPrerelease: 2026-11-22
+  lastPrerelease: 2026-11-23
 popularity:
-  star: 8277
-  watcher: 39
-  fork: 1396
-  release: 117
+  star: 8281
+  watcher: 38
+  fork: 1402
+  release: 118
   contributor: 68
-  pullRequest: 3421
-  issue: 1777
+  pullRequest: 3475
+  issue: 1788
 language:
-  TypeScript: 42771603
-  Vue: 2791125
-  JavaScript: 707246
-  CSS: 127812
+  TypeScript: 43000310
+  Vue: 2786394
+  JavaScript: 710018
+  CSS: 128834
   C: 37456
   Shell: 27949
   HTML: 23739
@@ -40,101 +40,101 @@ language:
   NSIS: 2527
   Dockerfile: 992
   Makefile: 693
-totalBytes: 46552872
+totalBytes: 46780642
 recent:
   last30d:
-    since: 2026-10-23
+    since: 2026-10-24
     release: 34
-    mergedPR: 396
-    openPR: 135
-    closedIssue: 19
-    openIssue: 215
-    commit: 276
+    mergedPR: 428
+    openPR: 145
+    closedIssue: 20
+    openIssue: 216
+    commit: 247
   last60d:
-    since: 2026-09-23
+    since: 2026-09-24
     release: 38
-    mergedPR: 502
-    openPR: 177
-    closedIssue: 35
-    openIssue: 368
-    commit: 366
+    mergedPR: 532
+    openPR: 191
+    closedIssue: 33
+    openIssue: 370
+    commit: 369
   last90d:
-    since: 2026-08-24
-    release: 49
-    mergedPR: 851
-    openPR: 219
-    closedIssue: 89
-    openIssue: 630
-    commit: 693
+    since: 2026-08-25
+    release: 50
+    mergedPR: 876
+    openPR: 232
+    closedIssue: 90
+    openIssue: 629
+    commit: 656
   last180d:
-    since: 2026-05-26
+    since: 2026-05-27
     release: 100
-    mergedPR: 2105
-    openPR: 576
-    closedIssue: 416
-    openIssue: 1333
-    commit: 1948
+    mergedPR: 2121
+    openPR: 590
+    closedIssue: 408
+    openIssue: 1337
+    commit: 1865
   last360d:
-    since: 2025-11-27
+    since: 2025-11-28
     release: 100
-    mergedPR: 2152
-    openPR: 576
-    closedIssue: 435
-    openIssue: 1342
-    commit: 1966
+    mergedPR: 2188
+    openPR: 590
+    closedIssue: 437
+    openIssue: 1351
+    commit: 1995
   last720d:
-    since: 2024-12-02
+    since: 2024-12-03
     release: 100
-    mergedPR: 2152
-    openPR: 576
-    closedIssue: 435
-    openIssue: 1342
-    commit: 1966
+    mergedPR: 2188
+    openPR: 590
+    closedIssue: 437
+    openIssue: 1351
+    commit: 1995
 total:
-  release: 117
-  mergedPR: 2153
-  openPR: 576
-  closedIssue: 435
-  openIssue: 1342
-  commit: 1966
+  release: 118
+  mergedPR: 2189
+  openPR: 590
+  closedIssue: 437
+  openIssue: 1351
+  commit: 1995
 ---
 path: /home/runner/.x-repo/github.com/MoonshotAI/kimi-code
-collectedAt: 2026-11-22T07:59:38Z
+collectedAt: 2026-11-23T09:15:56Z
 loc:
   TypeScript:
-    code: 1000589
-    comments: 11982
-    blanks: 110532
-    files: 5007
+    code: 1006964
+    comments: 12169
+    blanks: 111197
+    files: 5034
   Json:
-    code: 47941
+    code: 47936
     comments: 0
     blanks: 3
     files: 105
   Yaml:
-    code: 22010
+    code: 22009
     comments: 11
     blanks: 1809
     files: 6
   JavaScript:
-    code: 15893
+    code: 15968
     comments: 4
-    blanks: 1312
-    files: 152
+    blanks: 1328
+    files: 154
   Tsx:
     code: 13182
     comments: 0
     blanks: 1193
     files: 103
   Vue:
-    code: 6347
-    comments: 186
-    blanks: 738
-    files: 285
+    code: 6368
+    comments: 184
+    blanks: 740
+    files: 287
   Css:
-    code: 2623
+    code: 2660
     comments: 547
-    blanks: 164
+    blanks: 166
     files: 15
   Svg:
     code: 720
@@ -213,20 +213,20 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 18565
-    blanks: 9702
-    files: 288
+    comments: 18555
+    blanks: 9700
+    files: 286
   Text:
     code: 0
     comments: 13350
     blanks: 541
     files: 18
 total:
-  code: 1184951
-  comments: 45505
-  blanks: 131760
-  files: 6162
+  code: 1191292
+  comments: 45680
+  blanks: 132426
+  files: 6191
 ---
 
 ---
-{"id":452468678,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOSkt1e84a-B_G","tag_name":"kimi-code-desktop@1.4.2","target_commitish":"main","name":"Kimi Code Desktop 1.4.2","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-20T08:57:23Z","updated_at":"2026-11-20T09:19:47Z","published_at":"2026-11-20T09:19:47Z","assets":[{"id":771189322,"node_id":"RA_kwDOSkt1e84t92pK","name":"builder-debug.yml","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/yaml","state":"uploaded","size":841,"digest":"sha256:0eda0e587d5d254c1a2d788eabdae4e44f02de4cc86a93225d1ac92cd481d8cc","download_count":7,"created_at":"2026-11-20T09:19:35Z","updated_at":"2026-11-20T09:19:35Z"},{"id":771188659,"node_id":"RA_kwDOSkt1e84t92ez","name":"KimiCode-1.4.2-linux-amd64.deb","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-debian-package","state":"uploaded","size":116741360,"digest":"sha256:fba2faf312424f8bba20cae56a5095893112223c45b2c8c3ebd854564058d08c","download_count":23,"created_at":"2026-11-20T09:19:20Z","updated_at":"2026-11-20T09:19:33Z"},{"id":771188664,"node_id":"RA_kwDOSkt1e84t92e4","name":"KimiCode-1.4.2-linux-x86_64.AppImage","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/vnd.appimage","state":"uploaded","size":144891181,"digest":"sha256:caa4ebbb3b55dfa1bb1ea86b403392543e32408408dd1e708ed010616c7487e5","download_count":24,"created_at":"2026-11-20T09:19:20Z","updated_at":"2026-11-20T09:19:33Z"},{"id":771188663,"node_id":"RA_kwDOSkt1e84t92e3","name":"KimiCode-1.4.2-linux-x86_64.rpm","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-rpm","state":"uploaded","size":103993241,"digest":"sha256:7d2a24ca2f85b8f41c9338597cc8c4d4a55397236b6e15d4cf19e3f8bbade2e1","download_count":10,"created_at":"2026-11-20T09:19:20Z","updated_at":"2026-11-20T09:19:33Z"},{"id":771188654,"node_id":"RA_kwDOSkt1e84t92eu","name":"KimiCode-1.4.2-mac-arm64.dmg","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-apple-diskimage","state":"uploaded","size":141469825,"digest":"sha256:2093e0999c644447f091f7d4c70b7062e3521a8169759d2123bdc7e8bf4958a5","download_count":26,"created_at":"2026-11-20T09:19:20Z","updated_at":"2026-11-20T09:19:34Z"},{"id":771188653,"node_id":"RA_kwDOSkt1e84t92et","name":"KimiCode-1.4.2-mac-arm64.dmg.blockmap","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":150462,"digest":"sha256:e7eaf7805bdec3da5456c13856dfcbe570b8b82b44ff8cf283f04fd47c255e66","download_count":8,"created_at":"2026-11-20T09:19:20Z","updated_at":"2026-11-20T09:19:20Z"},{"id":771188716,"node_id":"RA_kwDOSkt1e84t92fs","name":"KimiCode-1.4.2-mac-arm64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":139877944,"digest":"sha256:409cfb77e7fa9ceea0da02ebebb7728f2bc0e95f27d542e538d60468b701ce08","download_count":10,"created_at":"2026-11-20T09:19:20Z","updated_at":"2026-11-20T09:19:33Z"},{"id":771189229,"node_id":"RA_kwDOSkt1e84t92nt","name":"KimiCode-1.4.2-mac-arm64.zip.blockmap","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":147697,"digest":"sha256:6eaebee884e32d633980b670d0997568b2feb527f732a17b5e62b4cd24c4f820","download_count":5,"created_at":"2026-11-20T09:19:33Z","updated_at":"2026-11-20T09:19:33Z"},{"id":771189235,"node_id":"RA_kwDOSkt1e84t92nz","name":"KimiCode-1.4.2-mac-x64.dmg","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-apple-diskimage","state":"uploaded","size":147380372,"digest":"sha256:bbd8d8af6fba015327573bc925c2cc4f2ef08f7687802c242b29a9757e21203f","download_count":15,"created_at":"2026-11-20T09:19:33Z","updated_at":"2026-11-20T09:19:45Z"},{"id":771189252,"node_id":"RA_kwDOSkt1e84t92oE","name":"KimiCode-1.4.2-mac-x64.dmg.blockmap","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":154268,"digest":"sha256:7c468f103bfaec5b2b25c2a8b307a773268378a275a44d487505e6fab19f42d8","download_count":5,"created_at":"2026-11-20T09:19:34Z","updated_at":"2026-11-20T09:19:34Z"},{"id":771189253,"node_id":"RA_kwDOSkt1e84t92oF","name":"KimiCode-1.4.2-mac-x64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":145848000,"digest":"sha256:5693025fa5bf89edcb7e6b999a2f510222c31b2fd63fb62119e921439bba1126","download_count":9,"created_at":"2026-11-20T09:19:34Z","updated_at":"2026-11-20T09:19:43Z"},{"id":771189263,"node_id":"RA_kwDOSkt1e84t92oP","name":"KimiCode-1.4.2-mac-x64.zip.blockmap","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":153107,"digest":"sha256:d5d8688fcdbaf93bbb9e8fa6c8949a7839b210a14b3992bc78c7872d53ca95a8","download_count":4,"created_at":"2026-11-20T09:19:34Z","updated_at":"2026-11-20T09:19:34Z"},{"id":771189295,"node_id":"RA_kwDOSkt1e84t92ov","name":"KimiCode-1.4.2-win-x64.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":133807312,"digest":"sha256:6271f6a8a0111cdac1b20952d88f5c4737e52835abfd97f9315f7534a1db999f","download_count":46,"created_at":"2026-11-20T09:19:34Z","updated_at":"2026-11-20T09:19:45Z"},{"id":771189293,"node_id":"RA_kwDOSkt1e84t92ot","name":"KimiCode-1.4.2-win-x64.exe.blockmap","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":140082,"digest":"sha256:16749f47b10bebd947550645f682826f53c80450e7a56ae83d8e383f85c05947","download_count":6,"created_at":"2026-11-20T09:19:34Z","updated_at":"2026-11-20T09:19:34Z"},{"id":771189326,"node_id":"RA_kwDOSkt1e84t92pO","name":"latest-linux.yml","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/yaml","state":"uploaded","size":717,"digest":"sha256:29265f98d698f251419a2f92987828a6f2817501929aa83c155b0145ac2aa012","download_count":11,"created_at":"2026-11-20T09:19:35Z","updated_at":"2026-11-20T09:19:35Z"},{"id":771189342,"node_id":"RA_kwDOSkt1e84t92pe","name":"latest-mac.yml","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/yaml","state":"uploaded","size":855,"digest":"sha256:954a168eade583115e6763473ab6873bd95e4b510cd26a6c31106c8df6a46c37","download_count":12,"created_at":"2026-11-20T09:19:35Z","updated_at":"2026-11-20T09:19:36Z"},{"id":771189360,"node_id":"RA_kwDOSkt1e84t92pw","name":"latest.yml","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/yaml","state":"uploaded","size":349,"digest":"sha256:59e64c4a2d6c352173f6fc0265c0785e966c3987ebc4549a2acccd0107564f7e","download_count":10,"created_at":"2026-11-20T09:19:36Z","updated_at":"2026-11-20T09:19:36Z"}],"body":"## 1.4.2\n\n### Patch Changes\n\n- [#5191](https://github.com/MoonshotAI/kimi-code/pull/5191) [`7baee3c`](https://github.com/MoonshotAI/kimi-code/commit/7baee3cd9d74ac07efdf4a8587c19c1574fffbd2) Thanks [@chengluyu](https://github.com/chengluyu)! - Fix the draft thinking effort inherited from the global thinking setting reverting to the model default after sending.\n\n","reactions":{"total_count":1,"+1":0,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":1,"eyes":0}}
+{"id":452468678,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOSkt1e84a-B_G","tag_name":"kimi-code-desktop@1.4.2","target_commitish":"main","name":"Kimi Code Desktop 1.4.2","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-20T08:57:23Z","updated_at":"2026-11-20T09:19:47Z","published_at":"2026-11-20T09:19:47Z","assets":[{"id":771189322,"node_id":"RA_kwDOSkt1e84t92pK","name":"builder-debug.yml","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/yaml","state":"uploaded","size":841,"digest":"sha256:0eda0e587d5d254c1a2d788eabdae4e44f02de4cc86a93225d1ac92cd481d8cc","download_count":8,"created_at":"2026-11-20T09:19:35Z","updated_at":"2026-11-20T09:19:35Z"},{"id":771188659,"node_id":"RA_kwDOSkt1e84t92ez","name":"KimiCode-1.4.2-linux-amd64.deb","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-debian-package","state":"uploaded","size":116741360,"digest":"sha256:fba2faf312424f8bba20cae56a5095893112223c45b2c8c3ebd854564058d08c","download_count":32,"created_at":"2026-11-20T09:19:20Z","updated_at":"2026-11-20T09:19:33Z"},{"id":771188664,"node_id":"RA_kwDOSkt1e84t92e4","name":"KimiCode-1.4.2-linux-x86_64.AppImage","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/vnd.appimage","state":"uploaded","size":144891181,"digest":"sha256:caa4ebbb3b55dfa1bb1ea86b403392543e32408408dd1e708ed010616c7487e5","download_count":38,"created_at":"2026-11-20T09:19:20Z","updated_at":"2026-11-20T09:19:33Z"},{"id":771188663,"node_id":"RA_kwDOSkt1e84t92e3","name":"KimiCode-1.4.2-linux-x86_64.rpm","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-rpm","state":"uploaded","size":103993241,"digest":"sha256:7d2a24ca2f85b8f41c9338597cc8c4d4a55397236b6e15d4cf19e3f8bbade2e1","download_count":16,"created_at":"2026-11-20T09:19:20Z","updated_at":"2026-11-20T09:19:33Z"},{"id":771188654,"node_id":"RA_kwDOSkt1e84t92eu","name":"KimiCode-1.4.2-mac-arm64.dmg","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-apple-diskimage","state":"uploaded","size":141469825,"digest":"sha256:2093e0999c644447f091f7d4c70b7062e3521a8169759d2123bdc7e8bf4958a5","download_count":46,"created_at":"2026-11-20T09:19:20Z","updated_at":"2026-11-20T09:19:34Z"},{"id":771188653,"node_id":"RA_kwDOSkt1e84t92et","name":"KimiCode-1.4.2-mac-arm64.dmg.blockmap","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":150462,"digest":"sha256:e7eaf7805bdec3da5456c13856dfcbe570b8b82b44ff8cf283f04fd47c255e66","download_count":11,"created_at":"2026-11-20T09:19:20Z","updated_at":"2026-11-20T09:19:20Z"},{"id":771188716,"node_id":"RA_kwDOSkt1e84t92fs","name":"KimiCode-1.4.2-mac-arm64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":139877944,"digest":"sha256:409cfb77e7fa9ceea0da02ebebb7728f2bc0e95f27d542e538d60468b701ce08","download_count":18,"created_at":"2026-11-20T09:19:20Z","updated_at":"2026-11-20T09:19:33Z"},{"id":771189229,"node_id":"RA_kwDOSkt1e84t92nt","name":"KimiCode-1.4.2-mac-arm64.zip.blockmap","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":147697,"digest":"sha256:6eaebee884e32d633980b670d0997568b2feb527f732a17b5e62b4cd24c4f820","download_count":6,"created_at":"2026-11-20T09:19:33Z","updated_at":"2026-11-20T09:19:33Z"},{"id":771189235,"node_id":"RA_kwDOSkt1e84t92nz","name":"KimiCode-1.4.2-mac-x64.dmg","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-apple-diskimage","state":"uploaded","size":147380372,"digest":"sha256:bbd8d8af6fba015327573bc925c2cc4f2ef08f7687802c242b29a9757e21203f","download_count":23,"created_at":"2026-11-20T09:19:33Z","updated_at":"2026-11-20T09:19:45Z"},{"id":771189252,"node_id":"RA_kwDOSkt1e84t92oE","name":"KimiCode-1.4.2-mac-x64.dmg.blockmap","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":154268,"digest":"sha256:7c468f103bfaec5b2b25c2a8b307a773268378a275a44d487505e6fab19f42d8","download_count":6,"created_at":"2026-11-20T09:19:34Z","updated_at":"2026-11-20T09:19:34Z"},{"id":771189253,"node_id":"RA_kwDOSkt1e84t92oF","name":"KimiCode-1.4.2-mac-x64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":145848000,"digest":"sha256:5693025fa5bf89edcb7e6b999a2f510222c31b2fd63fb62119e921439bba1126","download_count":15,"created_at":"2026-11-20T09:19:34Z","updated_at":"2026-11-20T09:19:43Z"},{"id":771189263,"node_id":"RA_kwDOSkt1e84t92oP","name":"KimiCode-1.4.2-mac-x64.zip.blockmap","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":153107,"digest":"sha256:d5d8688fcdbaf93bbb9e8fa6c8949a7839b210a14b3992bc78c7872d53ca95a8","download_count":5,"created_at":"2026-11-20T09:19:34Z","updated_at":"2026-11-20T09:19:34Z"},{"id":771189295,"node_id":"RA_kwDOSkt1e84t92ov","name":"KimiCode-1.4.2-win-x64.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":133807312,"digest":"sha256:6271f6a8a0111cdac1b20952d88f5c4737e52835abfd97f9315f7534a1db999f","download_count":64,"created_at":"2026-11-20T09:19:34Z","updated_at":"2026-11-20T09:19:45Z"},{"id":771189293,"node_id":"RA_kwDOSkt1e84t92ot","name":"KimiCode-1.4.2-win-x64.exe.blockmap","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":140082,"digest":"sha256:16749f47b10bebd947550645f682826f53c80450e7a56ae83d8e383f85c05947","download_count":7,"created_at":"2026-11-20T09:19:34Z","updated_at":"2026-11-20T09:19:34Z"},{"id":771189326,"node_id":"RA_kwDOSkt1e84t92pO","name":"latest-linux.yml","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/yaml","state":"uploaded","size":717,"digest":"sha256:29265f98d698f251419a2f92987828a6f2817501929aa83c155b0145ac2aa012","download_count":14,"created_at":"2026-11-20T09:19:35Z","updated_at":"2026-11-20T09:19:35Z"},{"id":771189342,"node_id":"RA_kwDOSkt1e84t92pe","name":"latest-mac.yml","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/yaml","state":"uploaded","size":855,"digest":"sha256:954a168eade583115e6763473ab6873bd95e4b510cd26a6c31106c8df6a46c37","download_count":14,"created_at":"2026-11-20T09:19:35Z","updated_at":"2026-11-20T09:19:36Z"},{"id":771189360,"node_id":"RA_kwDOSkt1e84t92pw","name":"latest.yml","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/yaml","state":"uploaded","size":349,"digest":"sha256:59e64c4a2d6c352173f6fc0265c0785e966c3987ebc4549a2acccd0107564f7e","download_count":13,"created_at":"2026-11-20T09:19:36Z","updated_at":"2026-11-20T09:19:36Z"}],"body":"## 1.4.2\n\n### Patch Changes\n\n- [#5191](https://github.com/MoonshotAI/kimi-code/pull/5191) [`7baee3c`](https://github.com/MoonshotAI/kimi-code/commit/7baee3cd9d74ac07efdf4a8587c19c1574fffbd2) Thanks [@chengluyu](https://github.com/chengluyu)! - Fix the draft thinking effort inherited from the global thinking setting reverting to the model default after sending.\n\n","reactions":{"total_count":1,"+1":0,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":1,"eyes":0}}

@@ -1,3 +1,15 @@
+- repo: freebsd
+  srcname: misc/kimi-code
+  binname: kimi-code
+  visiblename: misc/kimi-code
+  version: 2.7.2
+  origversion: null
+  status: newest
+  summary: Coding agent for the terminal, driven by the Kimi models
+  maintainers:
+    - joneum@freebsd.org
+  categories:
+    - misc
 - repo: aur
   srcname: kimi-code
   binname: kimi-code
@@ -25,22 +37,10 @@
 - repo: chocolatey
   binname: kimi-code
   visiblename: Kimi Code
-  version: 2.6.2
-  origversion: null
-  status: outdated
-  summary: Kimi's terminal coding agent from Moonshot AI
-- repo: freebsd
-  srcname: misc/kimi-code
-  binname: kimi-code
-  visiblename: misc/kimi-code
   version: 2.7.2
   origversion: null
   status: newest
-  summary: Coding agent for the terminal, driven by the Kimi models
-  maintainers:
-    - joneum@freebsd.org
-  categories:
-    - misc
+  summary: Kimi's terminal coding agent from Moonshot AI
 - repo: gentoo_ovl_guru
   srcname: dev-util/kimi-code-bin
   visiblename: dev-util/kimi-code-bin
