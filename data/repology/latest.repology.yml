@@ -1,15 +1,3 @@
-- repo: freebsd
-  srcname: misc/kimi-code
-  binname: kimi-code
-  visiblename: misc/kimi-code
-  version: 2.7.2
-  origversion: null
-  status: newest
-  summary: Coding agent for the terminal, driven by the Kimi models
-  maintainers:
-    - joneum@freebsd.org
-  categories:
-    - misc
 - repo: aur
   srcname: kimi-code
   binname: kimi-code
@@ -26,8 +14,8 @@
   srcname: kimi-code-bin
   binname: kimi-code-bin
   visiblename: kimi-code-bin
-  version: 2.7.2
-  origversion: 2.7.2-1
+  version: 2.7.3
+  origversion: 2.7.3-1
   status: newest
   summary: Kimi Code CLI - the starting point for next-gen agents (prebuilt binary)
   maintainers:
@@ -39,8 +27,20 @@
   visiblename: Kimi Code
   version: 2.7.2
   origversion: null
-  status: newest
+  status: outdated
   summary: Kimi's terminal coding agent from Moonshot AI
+- repo: freebsd
+  srcname: misc/kimi-code
+  binname: kimi-code
+  visiblename: misc/kimi-code
+  version: 2.7.2
+  origversion: null
+  status: outdated
+  summary: Coding agent for the terminal, driven by the Kimi models
+  maintainers:
+    - joneum@freebsd.org
+  categories:
+    - misc
 - repo: gentoo_ovl_guru
   srcname: dev-util/kimi-code-bin
   visiblename: dev-util/kimi-code-bin
@@ -72,7 +72,7 @@
   visiblename: kimi-code
   version: 2.7.2
   origversion: null
-  status: newest
+  status: outdated
   summary: AI coding agent for your terminal
 - repo: liguros_develop
   srcname: dev-util/kimi-code-bin
@@ -138,8 +138,8 @@
     - kimi-code-debuginfo
     - kimi-code-debugsource
   visiblename: kimi-code
-  version: 2.5.3
-  origversion: 2.5.3-1.1
+  version: 2.7.0
+  origversion: 2.7.0-1.1
   status: outdated
   summary: Command-line agentic coding assistant powered by Kimi models
   licenses:
