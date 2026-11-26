@@ -2,36 +2,36 @@ about:
   description: "Kimi Code CLI  —  The Starting Point for Next-Gen Agents"
   license: MIT
   homepage: https://www.kimi.com/code/docs/
-  head: e6b16c4
+  head: 5a6d97c
   archived: false
-  latestVersion: "kimi-code-desktop@1.5.0-canary.20261125101715-75a378d"
-  latestRelease: "@moonshot-ai/kimi-code@2.7.3"
-  latestPrerelease: "kimi-code-desktop@1.5.0-canary.20261125101715-75a378d"
-  collectedAt: 2026-11-25T10:35:20Z
+  latestVersion: "@moonshot-ai/kimi-code@2.9.0-canary.20261126065002-1fa6471"
+  latestRelease: "@moonshot-ai/kimi-code@2.8.0"
+  latestPrerelease: "@moonshot-ai/kimi-code@2.9.0-canary.20261126065002-1fa6471"
+  collectedAt: 2026-11-26T10:24:34Z
 timeline:
   created: 2026-05-22
-  lastCommit: 2026-11-25
-  lastVersion: 2026-11-25
-  lastRelease: 2026-11-23
-  lastPrerelease: 2026-11-25
+  lastCommit: 2026-11-26
+  lastVersion: 2026-11-26
+  lastRelease: 2026-11-25
+  lastPrerelease: 2026-11-26
 popularity:
-  star: 8294
+  star: 8296
   watcher: 38
-  fork: 1404
-  release: 137
+  fork: 1407
+  release: 143
   contributor: 68
-  pullRequest: 3590
-  issue: 1801
+  pullRequest: 3690
+  issue: 1808
 language:
-  TypeScript: 44095142
-  Vue: 2840773
-  JavaScript: 785535
-  CSS: 140973
+  TypeScript: 45578287
+  Vue: 2849757
+  JavaScript: 802092
+  CSS: 141339
   C: 37456
   Shell: 27949
   HTML: 23739
   Objective-C++: 16198
-  Python: 11137
+  Python: 11133
   Nix: 9370
   Swift: 7290
   PowerShell: 6734
@@ -40,107 +40,107 @@ language:
   NSIS: 2527
   Dockerfile: 992
   Makefile: 693
-totalBytes: 48017556
+totalBytes: 49526604
 recent:
   last30d:
-    since: 2026-10-26
-    release: 52
-    mergedPR: 494
-    openPR: 144
-    closedIssue: 20
-    openIssue: 205
-    commit: 309
+    since: 2026-10-27
+    release: 57
+    mergedPR: 562
+    openPR: 152
+    closedIssue: 29
+    openIssue: 196
+    commit: 383
   last60d:
-    since: 2026-09-26
-    release: 56
-    mergedPR: 623
-    openPR: 198
-    closedIssue: 36
-    openIssue: 370
-    commit: 431
+    since: 2026-09-27
+    release: 62
+    mergedPR: 702
+    openPR: 205
+    closedIssue: 45
+    openIssue: 363
+    commit: 505
   last90d:
-    since: 2026-08-27
-    release: 69
-    mergedPR: 945
-    openPR: 237
-    closedIssue: 86
-    openIssue: 617
-    commit: 718
+    since: 2026-08-28
+    release: 74
+    mergedPR: 1011
+    openPR: 244
+    closedIssue: 90
+    openIssue: 595
+    commit: 792
   last180d:
-    since: 2026-05-29
+    since: 2026-05-30
     release: 100
-    mergedPR: 2155
-    openPR: 592
-    closedIssue: 390
-    openIssue: 1339
-    commit: 1927
+    mergedPR: 2230
+    openPR: 600
+    closedIssue: 393
+    openIssue: 1335
+    commit: 2001
   last360d:
-    since: 2025-11-30
+    since: 2025-12-01
     release: 100
-    mergedPR: 2281
-    openPR: 596
-    closedIssue: 441
-    openIssue: 1360
-    commit: 2057
+    mergedPR: 2360
+    openPR: 604
+    closedIssue: 450
+    openIssue: 1358
+    commit: 2131
   last720d:
-    since: 2024-12-05
+    since: 2024-12-06
     release: 100
-    mergedPR: 2281
-    openPR: 596
-    closedIssue: 441
-    openIssue: 1360
-    commit: 2057
+    mergedPR: 2360
+    openPR: 604
+    closedIssue: 450
+    openIssue: 1358
+    commit: 2131
 total:
-  release: 137
-  mergedPR: 2282
-  openPR: 596
-  closedIssue: 441
-  openIssue: 1360
-  commit: 2057
+  release: 143
+  mergedPR: 2361
+  openPR: 604
+  closedIssue: 450
+  openIssue: 1358
+  commit: 2131
 ---
 path: /home/runner/.x-repo/github.com/MoonshotAI/kimi-code
-collectedAt: 2026-11-25T10:35:58Z
+collectedAt: 2026-11-26T10:25:01Z
 loc:
   TypeScript:
-    code: 1037664
-    comments: 12214
-    blanks: 114026
-    files: 5149
+    code: 1060153
+    comments: 12411
+    blanks: 116644
+    files: 5242
   Json:
-    code: 53191
+    code: 53392
     comments: 0
     blanks: 3
-    files: 109
+    files: 110
   Yaml:
-    code: 22032
+    code: 22012
     comments: 11
     blanks: 1810
     files: 6
   JavaScript:
-    code: 17260
+    code: 17475
     comments: 4
-    blanks: 1446
-    files: 159
+    blanks: 1451
+    files: 155
   Tsx:
-    code: 13207
+    code: 13239
     comments: 0
-    blanks: 1194
+    blanks: 1196
     files: 104
   Vue:
-    code: 6561
-    comments: 187
-    blanks: 779
-    files: 294
+    code: 6570
+    comments: 179
+    blanks: 774
+    files: 292
   Css:
-    code: 3183
-    comments: 516
+    code: 3187
+    comments: 517
     blanks: 224
     files: 24
   Svg:
-    code: 784
+    code: 788
     comments: 3
     blanks: 2
-    files: 140
+    files: 141
   C:
     code: 714
     comments: 11
@@ -197,9 +197,9 @@ loc:
     blanks: 6
     files: 1
   Toml:
-    code: 39
-    comments: 436
-    blanks: 70
+    code: 40
+    comments: 445
+    blanks: 72
     files: 1
   Makefile:
     code: 34
@@ -213,20 +213,20 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 18745
-    blanks: 9772
-    files: 289
+    comments: 19271
+    blanks: 10086
+    files: 295
   Text:
     code: 0
-    comments: 13700
+    comments: 13684
     blanks: 541
     files: 18
 total:
-  code: 1229944
-  comments: 46232
-  blanks: 135619
-  files: 6348
+  code: 1253044
+  comments: 46943
+  blanks: 138538
+  files: 6443
 ---
 
 ---
-{"id":455684201,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOSkt1e84bKTBp","tag_name":"kimi-code-desktop@1.4.3","target_commitish":"main","name":"Kimi Code Desktop 1.4.3","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-23T16:14:34Z","updated_at":"2026-11-23T16:56:55Z","published_at":"2026-11-23T16:56:55Z","assets":[{"id":783771201,"node_id":"RA_kwDOSkt1e84ut2ZB","name":"builder-debug.yml","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/yaml","state":"uploaded","size":841,"digest":"sha256:0eda0e587d5d254c1a2d788eabdae4e44f02de4cc86a93225d1ac92cd481d8cc","download_count":2,"created_at":"2026-11-23T16:56:49Z","updated_at":"2026-11-23T16:56:49Z"},{"id":783770783,"node_id":"RA_kwDOSkt1e84ut2Sf","name":"KimiCode-1.4.3-linux-amd64.deb","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-debian-package","state":"uploaded","size":116923228,"digest":"sha256:504fc7dc47964e5cbe8efd6e7ee39cb75fee74c2595ccb4a9de9692cbcd708fd","download_count":15,"created_at":"2026-11-23T16:56:40Z","updated_at":"2026-11-23T16:56:49Z"},{"id":783770782,"node_id":"RA_kwDOSkt1e84ut2Se","name":"KimiCode-1.4.3-linux-x86_64.AppImage","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/vnd.appimage","state":"uploaded","size":144940405,"digest":"sha256:b1258c4828e4c7d3285d583ef7cd767a0978e40806096c039db75355748211d5","download_count":16,"created_at":"2026-11-23T16:56:40Z","updated_at":"2026-11-23T16:56:47Z"},{"id":783770784,"node_id":"RA_kwDOSkt1e84ut2Sg","name":"KimiCode-1.4.3-linux-x86_64.rpm","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-rpm","state":"uploaded","size":104021045,"digest":"sha256:d4e520b9020782089410002b123d3edab54a4d1fc54b7b5ea05e11ac714051a9","download_count":8,"created_at":"2026-11-23T16:56:40Z","updated_at":"2026-11-23T16:56:44Z"},{"id":783770786,"node_id":"RA_kwDOSkt1e84ut2Si","name":"KimiCode-1.4.3-mac-arm64.dmg","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-apple-diskimage","state":"uploaded","size":141536486,"digest":"sha256:6140c5f901bf9f20e00267a18d418bace5a971f1736a0a9a52c24806718fe9ad","download_count":16,"created_at":"2026-11-23T16:56:40Z","updated_at":"2026-11-23T16:56:48Z"},{"id":783770785,"node_id":"RA_kwDOSkt1e84ut2Sh","name":"KimiCode-1.4.3-mac-arm64.dmg.blockmap","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":149367,"digest":"sha256:442f3ae87380413bbc23c845b122dc050a3fee3ba47c18ad7ebd2a4c06ad806d","download_count":6,"created_at":"2026-11-23T16:56:40Z","updated_at":"2026-11-23T16:56:40Z"},{"id":783770829,"node_id":"RA_kwDOSkt1e84ut2TN","name":"KimiCode-1.4.3-mac-arm64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":139928257,"digest":"sha256:a2f89c2f15edf5fbe0cecd20fc238b97407490dc0b016167e808b7ee31e8b33a","download_count":6,"created_at":"2026-11-23T16:56:41Z","updated_at":"2026-11-23T16:56:46Z"},{"id":783771011,"node_id":"RA_kwDOSkt1e84ut2WD","name":"KimiCode-1.4.3-mac-arm64.zip.blockmap","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":147714,"digest":"sha256:5c42bca5811d50ce7c158d3562eb89a2ebba9ab441f545cfbe8bc6ecd0f4e482","download_count":5,"created_at":"2026-11-23T16:56:45Z","updated_at":"2026-11-23T16:56:45Z"},{"id":783771039,"node_id":"RA_kwDOSkt1e84ut2Wf","name":"KimiCode-1.4.3-mac-x64.dmg","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-apple-diskimage","state":"uploaded","size":147457176,"digest":"sha256:99d5eb3ed875e36eadb1090fa5a8b26a7dfc0a68414d6b3c465d8ce22c96b92b","download_count":6,"created_at":"2026-11-23T16:56:46Z","updated_at":"2026-11-23T16:56:51Z"},{"id":783771092,"node_id":"RA_kwDOSkt1e84ut2XU","name":"KimiCode-1.4.3-mac-x64.dmg.blockmap","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":156238,"digest":"sha256:f0b29289a32684326238cd81f029858876b4be4ad71b85ee47a12744146bdf0d","download_count":4,"created_at":"2026-11-23T16:56:46Z","updated_at":"2026-11-23T16:56:47Z"},{"id":783771118,"node_id":"RA_kwDOSkt1e84ut2Xu","name":"KimiCode-1.4.3-mac-x64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":145898104,"digest":"sha256:38696b460eb8d76a78ed37062f1bf855bcd7bd4c13f8ae3a4b95a74258a662e0","download_count":4,"created_at":"2026-11-23T16:56:47Z","updated_at":"2026-11-23T16:56:54Z"},{"id":783771143,"node_id":"RA_kwDOSkt1e84ut2YH","name":"KimiCode-1.4.3-mac-x64.zip.blockmap","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":153042,"digest":"sha256:3671c75d506121a9b469dc58f2778e86b9f9291d1f85efde334c87de9578b17b","download_count":3,"created_at":"2026-11-23T16:56:47Z","updated_at":"2026-11-23T16:56:48Z"},{"id":783771166,"node_id":"RA_kwDOSkt1e84ut2Ye","name":"KimiCode-1.4.3-win-x64.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":133848832,"digest":"sha256:70997dc624c297881d2c68d0dcd71b1f60c4e0caa894e259a5cf2b880a72ebb2","download_count":163,"created_at":"2026-11-23T16:56:48Z","updated_at":"2026-11-23T16:56:53Z"},{"id":783771195,"node_id":"RA_kwDOSkt1e84ut2Y7","name":"KimiCode-1.4.3-win-x64.exe.blockmap","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":140550,"digest":"sha256:3748aa6d2fced65c43b40a07e623eb220e6f7173d8852800b8954f07aac6ad10","download_count":5,"created_at":"2026-11-23T16:56:49Z","updated_at":"2026-11-23T16:56:49Z"},{"id":783771219,"node_id":"RA_kwDOSkt1e84ut2ZT","name":"latest-linux.yml","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/yaml","state":"uploaded","size":717,"digest":"sha256:2e3c00f459307f69eca5c44774c68a178ca83fb568bd60cd7cb6c2744a7252aa","download_count":17,"created_at":"2026-11-23T16:56:50Z","updated_at":"2026-11-23T16:56:50Z"},{"id":783771220,"node_id":"RA_kwDOSkt1e84ut2ZU","name":"latest-mac.yml","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/yaml","state":"uploaded","size":855,"digest":"sha256:ed28432232436436a75d5af5506964ab983ca85016cf42ef03902a4e40311402","download_count":6,"created_at":"2026-11-23T16:56:50Z","updated_at":"2026-11-23T16:56:50Z"},{"id":783771249,"node_id":"RA_kwDOSkt1e84ut2Zx","name":"latest.yml","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/yaml","state":"uploaded","size":349,"digest":"sha256:a58d70b58243ac3db0d454cb1113ef5af520cacd7e5363515871c02bbc896ccf","download_count":8,"created_at":"2026-11-23T16:56:50Z","updated_at":"2026-11-23T16:56:51Z"}],"body":"## 1.4.3\n\n### Patch Changes\n\n- [#5246](https://github.com/MoonshotAI/kimi-code/pull/5246) [`f81c924`](https://github.com/MoonshotAI/kimi-code/commit/f81c924b1d70f963b0dc094bcb6859e446c37a49) Thanks [@liruifengv](https://github.com/liruifengv)! - Show an authorization button in chat when an MCP connection needs browser sign-in.\n\n- [#5300](https://github.com/MoonshotAI/kimi-code/pull/5300) [`fce3af9`](https://github.com/MoonshotAI/kimi-code/commit/fce3af9e694a5a572699546ebe8e28ccf004ed88) Thanks [@Grapedge](https://github.com/Grapedge)! - Rate individual replies or send feedback from the account menu or with `/feedback`.\n\n- [#5212](https://github.com/MoonshotAI/kimi-code/pull/5212) [`2348f53`](https://github.com/MoonshotAI/kimi-code/commit/2348f531923616e250639bf66dcbf67c169ee4ab) Thanks [@kimi-agent-bot](https://github.com/kimi-agent-bot)! - Fix sessions that could not open after their model became unavailable.\n\n- [#5197](https://github.com/MoonshotAI/kimi-code/pull/5197) [`0438be4`](https://github.com/MoonshotAI/kimi-code/commit/0438be4cc0f1b9509f18747472041b2210162e98) Thanks [@liruifengv](https://github.com/liruifengv)! - Detect plugin MCP OAuth requirements automatically and show the correct authorization state in plugin details.\n\n","reactions":{"total_count":1,"+1":0,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":1,"eyes":0}}
+{"id":458097309,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOSkt1e84bTgKd","tag_name":"kimi-code-desktop@1.5.0","target_commitish":"main","name":"Kimi Code Desktop 1.5.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-25T11:32:55Z","updated_at":"2026-11-25T12:55:10Z","published_at":"2026-11-25T12:55:10Z","assets":[{"id":791557553,"node_id":"RA_kwDOSkt1e84vLjWx","name":"builder-debug.yml","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/yaml","state":"uploaded","size":841,"digest":"sha256:0eda0e587d5d254c1a2d788eabdae4e44f02de4cc86a93225d1ac92cd481d8cc","download_count":7,"created_at":"2026-11-25T12:54:55Z","updated_at":"2026-11-25T12:54:56Z"},{"id":791556879,"node_id":"RA_kwDOSkt1e84vLjMP","name":"KimiCode-1.5.0-linux-amd64.deb","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-debian-package","state":"uploaded","size":116966768,"digest":"sha256:730bd61582bb95c622bc96bb5194c98e617d5778b33f93cb8cf4a034cd12d0ca","download_count":11,"created_at":"2026-11-25T12:54:42Z","updated_at":"2026-11-25T12:54:52Z"},{"id":791556877,"node_id":"RA_kwDOSkt1e84vLjMN","name":"KimiCode-1.5.0-linux-x86_64.AppImage","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/vnd.appimage","state":"uploaded","size":145014240,"digest":"sha256:1f1dd92f03025d7d0c645bc2a5617441986c8208ad1d4e410f617bb5026c26a3","download_count":12,"created_at":"2026-11-25T12:54:42Z","updated_at":"2026-11-25T12:54:53Z"},{"id":791556875,"node_id":"RA_kwDOSkt1e84vLjML","name":"KimiCode-1.5.0-linux-x86_64.rpm","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-rpm","state":"uploaded","size":104070781,"digest":"sha256:1969f05bde2ef31bedb91b0d8d464988574f7af376c121c6ab0ca132004b178f","download_count":5,"created_at":"2026-11-25T12:54:42Z","updated_at":"2026-11-25T12:54:53Z"},{"id":791556880,"node_id":"RA_kwDOSkt1e84vLjMQ","name":"KimiCode-1.5.0-mac-arm64.dmg","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-apple-diskimage","state":"uploaded","size":141596817,"digest":"sha256:530f7e2596b0bb545815bdd0d0d6223f5ca804440149928ff297e8e86b74e9fc","download_count":10,"created_at":"2026-11-25T12:54:42Z","updated_at":"2026-11-25T12:54:54Z"},{"id":791556878,"node_id":"RA_kwDOSkt1e84vLjMO","name":"KimiCode-1.5.0-mac-arm64.dmg.blockmap","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":150011,"digest":"sha256:4e5923f3e89d7bf48a02de81d93988076cab514e9f164bb84a1f89e5c7bd38a4","download_count":8,"created_at":"2026-11-25T12:54:42Z","updated_at":"2026-11-25T12:54:43Z"},{"id":791556902,"node_id":"RA_kwDOSkt1e84vLjMm","name":"KimiCode-1.5.0-mac-arm64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":139998246,"digest":"sha256:f65313f23e7b28001efd043d1f6c430b0e590621ebdd1116b72ad5bca467c1b6","download_count":7,"created_at":"2026-11-25T12:54:43Z","updated_at":"2026-11-25T12:54:51Z"},{"id":791557338,"node_id":"RA_kwDOSkt1e84vLjTa","name":"KimiCode-1.5.0-mac-arm64.zip.blockmap","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":147806,"digest":"sha256:556a1184a925bbb062bcfd3a13cf707dd005752c6cb9fc75856178f8502578ee","download_count":6,"created_at":"2026-11-25T12:54:51Z","updated_at":"2026-11-25T12:54:51Z"},{"id":791557368,"node_id":"RA_kwDOSkt1e84vLjT4","name":"KimiCode-1.5.0-mac-x64.dmg","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-apple-diskimage","state":"uploaded","size":147544446,"digest":"sha256:9e3727bf49dffaaf31973bb8fbe041333986a7903e9154ad929f16dda275f4b5","download_count":5,"created_at":"2026-11-25T12:54:52Z","updated_at":"2026-11-25T12:54:57Z"},{"id":791557406,"node_id":"RA_kwDOSkt1e84vLjUe","name":"KimiCode-1.5.0-mac-x64.dmg.blockmap","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":156014,"digest":"sha256:9cfb2585cbffa4273100ceff6cbc49da8e8f28181cbdf12df477ba3aac57158a","download_count":5,"created_at":"2026-11-25T12:54:52Z","updated_at":"2026-11-25T12:54:52Z"},{"id":791557430,"node_id":"RA_kwDOSkt1e84vLjU2","name":"KimiCode-1.5.0-mac-x64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":145968264,"digest":"sha256:167a86f18df3d3d9fc9d1d5592383f21e97e633537a30a0fd2190ce8227e98ad","download_count":5,"created_at":"2026-11-25T12:54:53Z","updated_at":"2026-11-25T12:55:01Z"},{"id":791557448,"node_id":"RA_kwDOSkt1e84vLjVI","name":"KimiCode-1.5.0-mac-x64.zip.blockmap","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":153147,"digest":"sha256:95a378ec1aa7881b9ef00b12c7322dbcf33e22652a0d0ddc139f5cdfb36af2c0","download_count":5,"created_at":"2026-11-25T12:54:53Z","updated_at":"2026-11-25T12:54:54Z"},{"id":791557486,"node_id":"RA_kwDOSkt1e84vLjVu","name":"KimiCode-1.5.0-win-x64.exe","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":133895656,"digest":"sha256:efadeb2b6f6f64b904d3bc452585408e48f043690b7084b3ef3e786b01bd7741","download_count":16,"created_at":"2026-11-25T12:54:54Z","updated_at":"2026-11-25T12:55:02Z"},{"id":791557515,"node_id":"RA_kwDOSkt1e84vLjWL","name":"KimiCode-1.5.0-win-x64.exe.blockmap","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":140330,"digest":"sha256:d64beb5da29857cf33ca9bf7e099a45d2d44ac4fca19854e9f7e330ac8adfab5","download_count":5,"created_at":"2026-11-25T12:54:55Z","updated_at":"2026-11-25T12:54:55Z"},{"id":791557579,"node_id":"RA_kwDOSkt1e84vLjXL","name":"latest-linux.yml","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/yaml","state":"uploaded","size":717,"digest":"sha256:13131c25eb79c1a4b5a40ab39aa299fc43ce0a5ec4187400665e3083abaac3db","download_count":9,"created_at":"2026-11-25T12:54:56Z","updated_at":"2026-11-25T12:54:56Z"},{"id":791557618,"node_id":"RA_kwDOSkt1e84vLjXy","name":"latest-mac.yml","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/yaml","state":"uploaded","size":855,"digest":"sha256:73058987f133ffecb5db8247a9f1f463dc4ad9bc675eeb5ce30d0781dd7a617d","download_count":7,"created_at":"2026-11-25T12:54:57Z","updated_at":"2026-11-25T12:54:57Z"},{"id":791557645,"node_id":"RA_kwDOSkt1e84vLjYN","name":"latest.yml","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/yaml","state":"uploaded","size":349,"digest":"sha256:b488824345c7b05843406daa4ca96f286a8b18ae06860741f1dc6f3a98126c51","download_count":7,"created_at":"2026-11-25T12:54:57Z","updated_at":"2026-11-25T12:54:58Z"}],"body":"## 1.5.0\n\n### Minor Changes\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Add a prompt prediction switch under Settings > Lab. Turn it on to see a predicted next prompt as the composer placeholder after a turn completes.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Remove the experimental `fork` parameter that let `Agent` and `AgentSwarm` start subagents with the caller's conversation history.\n\n### Patch Changes\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Fix approval and question prompts occasionally not appearing while the session waits for an answer.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Automatically approve statically verified read-only Bash commands in Always Ask mode. Add an `ask` permission rule to keep confirming them.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Improve prompt prediction interactions.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Localize session occupied and session updated error messages.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Allow collapsing and expanding the sidebar Projects or Sessions section by clicking its header title or chevron.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Add a Commands heading, skill icons, and keyboard hints to the / and @ menus, list / commands without the leading slash, label skills that come from plugins, show a searching state in place of outdated file results, and centre the key caps in the composer placeholder.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Open the / menu when a message starts with 、, and the @ menu when @ directly follows Chinese, Japanese, or Korean text.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Keep the / and @ menus closed after Esc until the / or @ is typed again, and close them when clicking outside.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Show how to use @ and / in the message box placeholder.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Tab in the / command menu now fills in the command name instead of running it. Press Enter to run it.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Allow queuing context compaction from the context panel while a turn is running without showing a separate queued toast, show elapsed time beside the compaction status indicator, and render a token-delta summary card when compaction finishes.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Add Context usage, an experimental view of context usage and composition in the composer ring and session info sidebar, with a details panel listing each item the model receives. Turn it on in Settings → Lab.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Add a Feedback item to the Help menu and align reply feedback buttons and tooltips with the copy and fork buttons.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Fix the built-in terminal failing on Windows for SSH remote projects by resolving `ssh.exe` to an absolute path before spawning `node-pty`.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Edit the connected server’s global AGENTS.md in Settings → Agent & Sessions → Custom instructions.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Show a localized error message when plugin authorization fails.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Fix MCP servers being started when archiving, deleting or forking a session that is not open.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Send saved image and video filenames to the model provider, with their absolute paths in local execution environments.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Add an experimental Sessions entry to the @ menu for referencing other sessions in a message. Turn it on in Settings > Lab > Session mentions, then type @, open Sessions, and search by title, last message, or session ID.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Fix the jump-to-latest button in the conversation stopping partway instead of reaching the bottom on mobile, especially in Safari.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Stop hover tooltips from opening and staying on screen after taps on touch devices.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Fix menus that could reopen on their own right after being closed with Escape or a click outside.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Fix conversation content shaking when switching from a session with the right panel open to one without it.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Add a display option in the sidebar Pinned section to toggle standalone pinned sessions between compact single-line rows and showing the project name underneath. Open it from the Pinned header options button or by right-clicking the Pinned header or empty space.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Fix approved plans being marked as failed tool calls in the conversation.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Automatically reclaim session locks recorded under a different hostname. Shared state directories no longer protect live holders across machines or containers.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Continue a failed turn in place without adding a synthetic \"Continue\" user message. Click Continue on the error card after a failed turn.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Fix the conversation content jumping sideways when the right panel opens or closes while the session info sidebar is shown.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Fix conversations with image or video attachments sometimes failing to render and showing \"Something went wrong\".\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Keep the selected sidebar view when opening a session from search results.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Add a stop button and double-Escape interrupt to side chats, prompt before closing non-empty or active side-chat tabs, and terminate the background side-chat agent on close.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Show the current `[secondary_model]` model choices to the agent as soon as they change mid-session, without changing subagent tool definitions, and reject `model` when resuming an existing subagent instead of ignoring it.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Place the Kimi Subscription first in the model picker provider tabs.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Fix the reading position jumping when file change cards, code blocks, and images finish loading in a conversation.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Fix the selection quote menu disappearing after triple-clicking to select a paragraph.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Continue running sessions after restarting to install an update. The restart confirmation lists the sessions in progress and continues them after the restart unless you uncheck the option.\n\n- [#5414](https://github.com/MoonshotAI/kimi-code/pull/5414) [`132c4e8`](https://github.com/MoonshotAI/kimi-code/commit/132c4e88b1d316a7d9a9b2f20df4d59a88061dc7) Thanks [@liruifengv](https://github.com/liruifengv)! - Suppress completion notifications in the web and desktop apps between consecutive queued turns, while still notifying when background tasks remain running.\n\n","reactions":{"total_count":1,"+1":0,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":1}}
