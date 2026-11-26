@@ -14,15 +14,15 @@ x install kimi-code
 
 ## 代码洞察
 
-合计: **1,157,624** 行代码（覆盖前 5 种语言、共 **5527** 个文件）。
+合计: **1,180,559** 行代码（覆盖前 5 种语言、共 **5617** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 1,037,664 | 12,214 | 114,026 | 5149 |
-| Json | 53,191 | 0 | 3 | 109 |
-| Yaml | 22,032 | 11 | 1,810 | 6 |
-| JavaScript | 17,260 | 4 | 1,446 | 159 |
-| Tsx | 13,207 | 0 | 1,194 | 104 |
+| TypeScript | 1,060,153 | 12,411 | 116,644 | 5242 |
+| Json | 53,392 | 0 | 3 | 110 |
+| Yaml | 22,012 | 11 | 1,810 | 6 |
+| JavaScript | 17,475 | 4 | 1,451 | 155 |
+| Tsx | 13,239 | 0 | 1,196 | 104 |
 
 ## 源代码
 
@@ -32,50 +32,50 @@ x install kimi-code
 
 ## 发布
 
-- **最新版本**: `kimi-code-desktop@1.5.0-canary.20261125101715-75a378d` (2026-11-23)
-- **最近提交**: 2026-11-25
+- **最新版本**: `@moonshot-ai/kimi-code@2.9.0-canary.20261126065002-1fa6471` (2026-11-25)
+- **最近提交**: 2026-11-26
 - **Release 含资产**: 17 个
 
 ## 流行度
 
-- **Star**: 8,294 · **Fork**: 1,404 · **开放 issue**: 1,801 · **贡献者**: 68
+- **Star**: 8,296 · **Fork**: 1,407 · **开放 issue**: 1,808 · **贡献者**: 68
 
 ## 累计统计
 
-- **发布数**: 137 · **已合并 PR**: 2282 · **开放 PR**: 596 · **已关闭 issue**: 441 · **开放 issue**: 1360 · **提交数**: 2057
+- **发布数**: 143 · **已合并 PR**: 2361 · **开放 PR**: 604 · **已关闭 issue**: 450 · **开放 issue**: 1358 · **提交数**: 2131
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 52 | 494 | 144 | 20 | 205 | 309 |
-| last60d | 2026-09-26 | 56 | 623 | 198 | 36 | 370 | 431 |
-| 90d | 2026-08-27 | 69 | 945 | 237 | 86 | 617 | 718 |
-| last180d | 2026-05-29 | 100 | 2155 | 592 | 390 | 1339 | 1927 |
-| 360d | 2025-11-30 | 100 | 2281 | 596 | 441 | 1360 | 2057 |
-| last720d | 2024-12-05 | 100 | 2281 | 596 | 441 | 1360 | 2057 |
+| 30d | 2026-10-27 | 57 | 562 | 152 | 29 | 196 | 383 |
+| last60d | 2026-09-27 | 62 | 702 | 205 | 45 | 363 | 505 |
+| 90d | 2026-08-28 | 74 | 1011 | 244 | 90 | 595 | 792 |
+| last180d | 2026-05-30 | 100 | 2230 | 600 | 393 | 1335 | 2001 |
+| 360d | 2025-12-01 | 100 | 2360 | 604 | 450 | 1358 | 2131 |
+| last720d | 2024-12-06 | 100 | 2360 | 604 | 450 | 1358 | 2131 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [builder-debug.yml](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.4.3/builder-debug.yml) | 841 B | `other` |
-| [KimiCode-1.4.3-linux-amd64.deb](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.4.3/KimiCode-1.4.3-linux-amd64.deb) | 111.5 MiB | `native/linux/x64` |
-| [KimiCode-1.4.3-linux-x86_64.AppImage](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.4.3/KimiCode-1.4.3-linux-x86_64.AppImage) | 138.2 MiB | `native/linux/x64` |
-| [KimiCode-1.4.3-linux-x86_64.rpm](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.4.3/KimiCode-1.4.3-linux-x86_64.rpm) | 99.2 MiB | `native/linux/x64` |
-| [KimiCode-1.4.3-mac-arm64.dmg](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.4.3/KimiCode-1.4.3-mac-arm64.dmg) | 135.0 MiB | `other` |
-| [KimiCode-1.4.3-mac-arm64.dmg.blockmap](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.4.3/KimiCode-1.4.3-mac-arm64.dmg.blockmap) | 145.9 KiB | `other` |
-| [KimiCode-1.4.3-mac-arm64.zip](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.4.3/KimiCode-1.4.3-mac-arm64.zip) | 133.4 MiB | `other` |
-| [KimiCode-1.4.3-mac-arm64.zip.blockmap](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.4.3/KimiCode-1.4.3-mac-arm64.zip.blockmap) | 144.3 KiB | `other` |
-| [KimiCode-1.4.3-mac-x64.dmg](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.4.3/KimiCode-1.4.3-mac-x64.dmg) | 140.6 MiB | `other` |
-| [KimiCode-1.4.3-mac-x64.dmg.blockmap](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.4.3/KimiCode-1.4.3-mac-x64.dmg.blockmap) | 152.6 KiB | `other` |
-| [KimiCode-1.4.3-mac-x64.zip](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.4.3/KimiCode-1.4.3-mac-x64.zip) | 139.1 MiB | `other` |
-| [KimiCode-1.4.3-mac-x64.zip.blockmap](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.4.3/KimiCode-1.4.3-mac-x64.zip.blockmap) | 149.5 KiB | `other` |
-| [KimiCode-1.4.3-win-x64.exe](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.4.3/KimiCode-1.4.3-win-x64.exe) | 127.6 MiB | `other` |
-| [KimiCode-1.4.3-win-x64.exe.blockmap](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.4.3/KimiCode-1.4.3-win-x64.exe.blockmap) | 137.3 KiB | `other` |
-| [latest-linux.yml](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.4.3/latest-linux.yml) | 717 B | `other` |
-| [latest-mac.yml](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.4.3/latest-mac.yml) | 855 B | `other` |
-| [latest.yml](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.4.3/latest.yml) | 349 B | `other` |
+| [builder-debug.yml](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.5.0/builder-debug.yml) | 841 B | `other` |
+| [KimiCode-1.5.0-linux-amd64.deb](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.5.0/KimiCode-1.5.0-linux-amd64.deb) | 111.5 MiB | `native/linux/x64` |
+| [KimiCode-1.5.0-linux-x86_64.AppImage](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.5.0/KimiCode-1.5.0-linux-x86_64.AppImage) | 138.3 MiB | `native/linux/x64` |
+| [KimiCode-1.5.0-linux-x86_64.rpm](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.5.0/KimiCode-1.5.0-linux-x86_64.rpm) | 99.2 MiB | `native/linux/x64` |
+| [KimiCode-1.5.0-mac-arm64.dmg](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.5.0/KimiCode-1.5.0-mac-arm64.dmg) | 135.0 MiB | `other` |
+| [KimiCode-1.5.0-mac-arm64.dmg.blockmap](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.5.0/KimiCode-1.5.0-mac-arm64.dmg.blockmap) | 146.5 KiB | `other` |
+| [KimiCode-1.5.0-mac-arm64.zip](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.5.0/KimiCode-1.5.0-mac-arm64.zip) | 133.5 MiB | `other` |
+| [KimiCode-1.5.0-mac-arm64.zip.blockmap](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.5.0/KimiCode-1.5.0-mac-arm64.zip.blockmap) | 144.3 KiB | `other` |
+| [KimiCode-1.5.0-mac-x64.dmg](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.5.0/KimiCode-1.5.0-mac-x64.dmg) | 140.7 MiB | `other` |
+| [KimiCode-1.5.0-mac-x64.dmg.blockmap](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.5.0/KimiCode-1.5.0-mac-x64.dmg.blockmap) | 152.4 KiB | `other` |
+| [KimiCode-1.5.0-mac-x64.zip](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.5.0/KimiCode-1.5.0-mac-x64.zip) | 139.2 MiB | `other` |
+| [KimiCode-1.5.0-mac-x64.zip.blockmap](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.5.0/KimiCode-1.5.0-mac-x64.zip.blockmap) | 149.6 KiB | `other` |
+| [KimiCode-1.5.0-win-x64.exe](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.5.0/KimiCode-1.5.0-win-x64.exe) | 127.7 MiB | `other` |
+| [KimiCode-1.5.0-win-x64.exe.blockmap](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.5.0/KimiCode-1.5.0-win-x64.exe.blockmap) | 137.0 KiB | `other` |
+| [latest-linux.yml](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.5.0/latest-linux.yml) | 717 B | `other` |
+| [latest-mac.yml](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.5.0/latest-mac.yml) | 855 B | `other` |
+| [latest.yml](https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop@1.5.0/latest.yml) | 349 B | `other` |
 
 ## 改进这些数据
 
@@ -86,4 +86,4 @@ kimi-code 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261125.yml` · 2026-11-25T10:36:24Z._
+_数据快照: `data/card/261126.yml` · 2026-11-26T10:25:29Z._
