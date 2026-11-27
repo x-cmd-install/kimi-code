@@ -1,0 +1,231 @@
+about:
+  description: "Kimi Code CLI  —  The Starting Point for Next-Gen Agents"
+  license: MIT
+  homepage: https://www.kimi.com/code/docs/
+  head: 87058b9
+  archived: false
+  latestVersion: "kimi-code-desktop@1.6.0-canary.20261127042244-574bd21"
+  latestRelease: "@moonshot-ai/kimi-code@2.8.1"
+  latestPrerelease: "kimi-code-desktop@1.6.0-canary.20261127042244-574bd21"
+  collectedAt: 2026-11-27T09:43:30Z
+timeline:
+  created: 2026-05-22
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-27
+  lastRelease: 2026-11-26
+  lastPrerelease: 2026-11-27
+popularity:
+  star: 8312
+  watcher: 38
+  fork: 1410
+  release: 146
+  contributor: 68
+  pullRequest: 3806
+  issue: 1813
+language:
+  TypeScript: 45994176
+  Vue: 2890195
+  JavaScript: 880805
+  CSS: 141339
+  C: 37456
+  Shell: 27949
+  HTML: 23739
+  Objective-C++: 16198
+  Python: 11133
+  Nix: 9370
+  Swift: 7290
+  PowerShell: 6734
+  Objective-C: 5876
+  C++: 5172
+  NSIS: 2527
+  Dockerfile: 992
+  Makefile: 693
+totalBytes: 50061644
+recent:
+  last30d:
+    since: 2026-10-28
+    release: 60
+    mergedPR: 634
+    openPR: 163
+    closedIssue: 31
+    openIssue: 191
+    commit: 463
+  last60d:
+    since: 2026-09-28
+    release: 65
+    mergedPR: 777
+    openPR: 218
+    closedIssue: 47
+    openIssue: 358
+    commit: 585
+  last90d:
+    since: 2026-08-29
+    release: 76
+    mergedPR: 1093
+    openPR: 257
+    closedIssue: 87
+    openIssue: 589
+    commit: 872
+  last180d:
+    since: 2026-05-31
+    release: 100
+    mergedPR: 2311
+    openPR: 613
+    closedIssue: 392
+    openIssue: 1336
+    commit: 2081
+  last360d:
+    since: 2025-12-02
+    release: 100
+    mergedPR: 2443
+    openPR: 619
+    closedIssue: 452
+    openIssue: 1361
+    commit: 2211
+  last720d:
+    since: 2024-12-07
+    release: 100
+    mergedPR: 2443
+    openPR: 619
+    closedIssue: 452
+    openIssue: 1361
+    commit: 2211
+total:
+  release: 146
+  mergedPR: 2444
+  openPR: 619
+  closedIssue: 452
+  openIssue: 1361
+  commit: 2211
+---
+path: /home/runner/.x-repo/github.com/MoonshotAI/kimi-code
+collectedAt: 2026-11-27T09:43:56Z
+loc:
+  TypeScript:
+    code: 1071544
+    comments: 12432
+    blanks: 117819
+    files: 5312
+  Json:
+    code: 32550
+    comments: 0
+    blanks: 3
+    files: 111
+  Yaml:
+    code: 22221
+    comments: 11
+    blanks: 1833
+    files: 5
+  JavaScript:
+    code: 18940
+    comments: 4
+    blanks: 1573
+    files: 160
+  Tsx:
+    code: 13239
+    comments: 0
+    blanks: 1196
+    files: 104
+  Vue:
+    code: 6796
+    comments: 179
+    blanks: 784
+    files: 295
+  Css:
+    code: 3187
+    comments: 517
+    blanks: 224
+    files: 24
+  Svg:
+    code: 788
+    comments: 3
+    blanks: 2
+    files: 141
+  C:
+    code: 714
+    comments: 11
+    blanks: 72
+    files: 5
+  Python:
+    code: 581
+    comments: 4
+    blanks: 75
+    files: 2
+  Sh:
+    code: 538
+    comments: 117
+    blanks: 89
+    files: 8
+  Html:
+    code: 346
+    comments: 3
+    blanks: 0
+    files: 26
+  ObjectiveCpp:
+    code: 341
+    comments: 0
+    blanks: 30
+    files: 3
+  CHeader:
+    code: 333
+    comments: 6
+    blanks: 30
+    files: 3
+  Nix:
+    code: 232
+    comments: 30
+    blanks: 23
+    files: 1
+  Swift:
+    code: 164
+    comments: 0
+    blanks: 23
+    files: 2
+  PowerShell:
+    code: 142
+    comments: 0
+    blanks: 3
+    files: 1
+  ObjectiveC:
+    code: 125
+    comments: 0
+    blanks: 7
+    files: 1
+  Cpp:
+    code: 124
+    comments: 0
+    blanks: 6
+    files: 1
+  Toml:
+    code: 40
+    comments: 447
+    blanks: 72
+    files: 1
+  Makefile:
+    code: 34
+    comments: 8
+    blanks: 25
+    files: 1
+  Xml:
+    code: 29
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 19300
+    blanks: 10085
+    files: 296
+  Text:
+    code: 0
+    comments: 13687
+    blanks: 541
+    files: 18
+total:
+  code: 1246557
+  comments: 46998
+  blanks: 139852
+  files: 6522
+---
+
+---
