@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 841,
       "digest": "sha256:0eda0e587d5d254c1a2d788eabdae4e44f02de4cc86a93225d1ac92cd481d8cc",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-26T11:54:44Z",
       "updated_at": "2026-11-26T11:54:44Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop%401.5.1/builder-debug.yml"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 117103028,
       "digest": "sha256:c9032d57c92f2fe2bc61252ca73fb62727b7d3d8a5a6aa13c534aa784e2cc1ac",
-      "download_count": 9,
+      "download_count": 25,
       "created_at": "2026-11-26T11:54:36Z",
       "updated_at": "2026-11-26T11:54:41Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop%401.5.1/KimiCode-1.5.1-linux-amd64.deb"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 145014253,
       "digest": "sha256:6229959486843bfae93298c2c9b8fe5ce1bb9ca2e933927da0304a7dc3d9312a",
-      "download_count": 16,
+      "download_count": 29,
       "created_at": "2026-11-26T11:54:36Z",
       "updated_at": "2026-11-26T11:54:44Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop%401.5.1/KimiCode-1.5.1-linux-x86_64.AppImage"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 104082261,
       "digest": "sha256:2662efdcb61b85c5fa9667144b5e949a1908cdba69401034f8aabf66990ce790",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-26T11:54:36Z",
       "updated_at": "2026-11-26T11:54:41Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop%401.5.1/KimiCode-1.5.1-linux-x86_64.rpm"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 141607264,
       "digest": "sha256:7810786e6fdfa5d39ca79178607e60e511310589c7d416ea62199e49d913eacc",
-      "download_count": 12,
+      "download_count": 21,
       "created_at": "2026-11-26T11:54:36Z",
       "updated_at": "2026-11-26T11:54:43Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop%401.5.1/KimiCode-1.5.1-mac-arm64.dmg"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 150157,
       "digest": "sha256:c69d20509d38787e1e97cfa0c8a21fb379045f0851c11dbfd687f57259f54056",
-      "download_count": 16,
+      "download_count": 19,
       "created_at": "2026-11-26T11:54:36Z",
       "updated_at": "2026-11-26T11:54:36Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop%401.5.1/KimiCode-1.5.1-mac-arm64.dmg.blockmap"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 139998326,
       "digest": "sha256:b190caf203d3641899026ca9179cc26ecce38a0aba32e46aadaa0eb6dc08d45d",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-11-26T11:54:36Z",
       "updated_at": "2026-11-26T11:54:43Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop%401.5.1/KimiCode-1.5.1-mac-arm64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 147578,
       "digest": "sha256:a9692e4d9acf7ced3125ee1262b3c54530ead9767b83ebf2acb7277d7e86f25a",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-26T11:54:41Z",
       "updated_at": "2026-11-26T11:54:42Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop%401.5.1/KimiCode-1.5.1-mac-arm64.zip.blockmap"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 156407,
       "digest": "sha256:4d565d9c34365dbdb256f8de38e2bf429f52255bbb1e0dff4130a8512bf416f0",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-26T11:54:42Z",
       "updated_at": "2026-11-26T11:54:42Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop%401.5.1/KimiCode-1.5.1-mac-x64.dmg.blockmap"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 133897296,
       "digest": "sha256:df89e2161fbaa19638b559da58c3ba1498e34dbb2d0f6b717c63a56eb25a53ed",
-      "download_count": 26,
+      "download_count": 44,
       "created_at": "2026-11-26T11:54:43Z",
       "updated_at": "2026-11-26T11:54:50Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop%401.5.1/KimiCode-1.5.1-win-x64.exe"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 140306,
       "digest": "sha256:b67ac41c897f1fcfa11f4e1d7e43069ffb3d82a17072d410f756c4cfa19d2b6e",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-26T11:54:43Z",
       "updated_at": "2026-11-26T11:54:44Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop%401.5.1/KimiCode-1.5.1-win-x64.exe.blockmap"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 717,
       "digest": "sha256:48983912600b9244177f4d0608bc3690ad2ec35171561217854c3d250519d22d",
-      "download_count": 8,
+      "download_count": 12,
       "created_at": "2026-11-26T11:54:44Z",
       "updated_at": "2026-11-26T11:54:44Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop%401.5.1/latest-linux.yml"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 855,
       "digest": "sha256:7b71a7fc13516a9108d65b657e58d7ad4b96c4ead990d06a60c2b6f551ff6e45",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-26T11:54:45Z",
       "updated_at": "2026-11-26T11:54:45Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop%401.5.1/latest-mac.yml"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 349,
       "digest": "sha256:68a82f577518efdf25507ed00c7cc6bc7297ae0fc693a1d075c9baba1ea728cf",
-      "download_count": 7,
+      "download_count": 11,
       "created_at": "2026-11-26T11:54:45Z",
       "updated_at": "2026-11-26T11:54:45Z",
       "browser_download_url": "https://github.com/MoonshotAI/kimi-code/releases/download/kimi-code-desktop%401.5.1/latest.yml"
